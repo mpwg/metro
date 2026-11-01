@@ -1,0 +1,3873 @@
+{
+  "version": "vienna-normal-2026-10-26-v1",
+  "sources": [
+    {
+      "title": "Datenquelle: Stadt Wien – Wiener Linien, Fahrplandaten GTFS; Export 2026-10-26",
+      "url": "https://www.wienerlinien.at/ogd_realtime/doku/ogd/gtfs/gtfs.zip",
+      "retrieved": "2026-11-01",
+      "license": "CC BY 4.0"
+    },
+    {
+      "title": "Wiener Linien – Fahrplandaten GTFS Wien (Datenkatalog)",
+      "url": "https://www.data.gv.at/datasets/ab4a73b6-1c2d-42e1-b4d9-049e04889cf0",
+      "retrieved": "2026-11-01",
+      "license": "CC BY 4.0"
+    },
+    {
+      "title": "Wiener Linien Open Data",
+      "url": "https://tramwm.wienerlinien.at/web/guest/open-data",
+      "retrieved": "2026-11-01",
+      "license": "CC BY 4.0"
+    }
+  ],
+  "stations": [
+    {
+      "id": "absberggasse",
+      "name": "Absberggasse",
+      "lat": 48.1760775,
+      "lon": 16.3905125,
+      "x": 850,
+      "y": 916
+    },
+    {
+      "id": "aderklaaer-strasse",
+      "name": "Aderklaaer Straße",
+      "lat": 48.2634203,
+      "lon": 16.4516203,
+      "x": 1208,
+      "y": 302
+    },
+    {
+      "id": "alaudagasse",
+      "name": "Alaudagasse",
+      "lat": 48.1534948,
+      "lon": 16.3823737,
+      "x": 803,
+      "y": 1075
+    },
+    {
+      "id": "albertgasse",
+      "name": "Albertgasse",
+      "lat": 48.2106062,
+      "lon": 16.3439213,
+      "x": 577,
+      "y": 674
+    },
+    {
+      "id": "alfred-adler-strasse",
+      "name": "Alfred-Adler-Straße",
+      "lat": 48.1820555,
+      "lon": 16.3815563,
+      "x": 798,
+      "y": 874
+    },
+    {
+      "id": "alser-strasse",
+      "name": "Alser Straße",
+      "lat": 48.2170037,
+      "lon": 16.3419383,
+      "x": 566,
+      "y": 629
+    },
+    {
+      "id": "altdorferstrasse",
+      "name": "Altdorferstraße",
+      "lat": 48.1685231,
+      "lon": 16.3498502,
+      "x": 612,
+      "y": 970
+    },
+    {
+      "id": "alte-donau",
+      "name": "Alte Donau",
+      "lat": 48.238109,
+      "lon": 16.4244733,
+      "x": 1049,
+      "y": 480
+    },
+    {
+      "id": "alterlaa",
+      "name": "Alterlaa",
+      "lat": 48.150723,
+      "lon": 16.3168551,
+      "x": 419,
+      "y": 1095
+    },
+    {
+      "id": "altes-landgut",
+      "name": "Altes Landgut",
+      "lat": 48.161351,
+      "lon": 16.3835101,
+      "x": 809,
+      "y": 1020
+    },
+    {
+      "id": "althanstrasse",
+      "name": "Althanstraße",
+      "lat": 48.2288493,
+      "lon": 16.3594891,
+      "x": 669,
+      "y": 545
+    },
+    {
+      "id": "am-europlatz",
+      "name": "Am Europlatz",
+      "lat": 48.1713868,
+      "lon": 16.3336356,
+      "x": 517,
+      "y": 949
+    },
+    {
+      "id": "am-kanal",
+      "name": "Am Kanal",
+      "lat": 48.1703893,
+      "lon": 16.4106167,
+      "x": 968,
+      "y": 956
+    },
+    {
+      "id": "am-schopfwerk",
+      "name": "Am Schöpfwerk",
+      "lat": 48.1606859,
+      "lon": 16.3241988,
+      "x": 462,
+      "y": 1025
+    },
+    {
+      "id": "am-tabor",
+      "name": "Am Tabor",
+      "lat": 48.2255609,
+      "lon": 16.3838829,
+      "x": 811,
+      "y": 569
+    },
+    {
+      "id": "anton-schall-gasse",
+      "name": "Anton-Schall-Gasse",
+      "lat": 48.2890328,
+      "lon": 16.4157327,
+      "x": 998,
+      "y": 122
+    },
+    {
+      "id": "arbeitergasse-gurtel",
+      "name": "Arbeitergasse/Gürtel",
+      "lat": 48.1844363,
+      "lon": 16.3456686,
+      "x": 588,
+      "y": 858
+    },
+    {
+      "id": "argentinierstrasse",
+      "name": "Argentinierstraße",
+      "lat": 48.1885898,
+      "lon": 16.3769164,
+      "x": 771,
+      "y": 828
+    },
+    {
+      "id": "arthaberplatz",
+      "name": "Arthaberplatz",
+      "lat": 48.1724921,
+      "lon": 16.3721509,
+      "x": 743,
+      "y": 942
+    },
+    {
+      "id": "aspern-nord",
+      "name": "Aspern Nord",
+      "lat": 48.234507,
+      "lon": 16.5045311,
+      "x": 1518,
+      "y": 506
+    },
+    {
+      "id": "aspernstrasse",
+      "name": "Aspernstraße",
+      "lat": 48.2225865,
+      "lon": 16.4749137,
+      "x": 1345,
+      "y": 590
+    },
+    {
+      "id": "augasse",
+      "name": "Augasse",
+      "lat": 48.2299564,
+      "lon": 16.3573646,
+      "x": 656,
+      "y": 538
+    },
+    {
+      "id": "bacherplatz",
+      "name": "Bacherplatz",
+      "lat": 48.18847,
+      "lon": 16.3566594,
+      "x": 652,
+      "y": 829
+    },
+    {
+      "id": "bahnsteggasse",
+      "name": "Bahnsteggasse",
+      "lat": 48.2648435,
+      "lon": 16.40193,
+      "x": 917,
+      "y": 292
+    },
+    {
+      "id": "bauernfeldplatz",
+      "name": "Bauernfeldplatz",
+      "lat": 48.2209107,
+      "lon": 16.3607872,
+      "x": 676,
+      "y": 601
+    },
+    {
+      "id": "baumgarten",
+      "name": "Baumgarten",
+      "lat": 48.1990214,
+      "lon": 16.2717282,
+      "x": 154,
+      "y": 755
+    },
+    {
+      "id": "baumgasse",
+      "name": "Baumgasse",
+      "lat": 48.1933028,
+      "lon": 16.4047193,
+      "x": 934,
+      "y": 795
+    },
+    {
+      "id": "beingasse",
+      "name": "Beingasse",
+      "lat": 48.1994016,
+      "lon": 16.3322342,
+      "x": 509,
+      "y": 752
+    },
+    {
+      "id": "belvederegasse",
+      "name": "Belvederegasse",
+      "lat": 48.1899552,
+      "lon": 16.3716613,
+      "x": 740,
+      "y": 819
+    },
+    {
+      "id": "bernhardtstalgasse",
+      "name": "Bernhardtstalgasse",
+      "lat": 48.1764249,
+      "lon": 16.3618966,
+      "x": 683,
+      "y": 914
+    },
+    {
+      "id": "bezirksamt-margareten",
+      "name": "Bezirksamt Margareten",
+      "lat": 48.1903505,
+      "lon": 16.3551143,
+      "x": 643,
+      "y": 816
+    },
+    {
+      "id": "blechturmgasse",
+      "name": "Blechturmgasse",
+      "lat": 48.1842596,
+      "lon": 16.3684453,
+      "x": 721,
+      "y": 859
+    },
+    {
+      "id": "blindengasse",
+      "name": "Blindengasse",
+      "lat": 48.2110073,
+      "lon": 16.3407952,
+      "x": 559,
+      "y": 671
+    },
+    {
+      "id": "borse",
+      "name": "Börse",
+      "lat": 48.2156016,
+      "lon": 16.3660693,
+      "x": 707,
+      "y": 639
+    },
+    {
+      "id": "braunschweiggasse",
+      "name": "Braunschweiggasse",
+      "lat": 48.1894103,
+      "lon": 16.295821,
+      "x": 295,
+      "y": 823
+    },
+    {
+      "id": "breitensee",
+      "name": "Breitensee",
+      "lat": 48.1989346,
+      "lon": 16.3069646,
+      "x": 361,
+      "y": 756
+    },
+    {
+      "id": "brunnenmarkt",
+      "name": "Brunnenmarkt",
+      "lat": 48.2110911,
+      "lon": 16.3360386,
+      "x": 531,
+      "y": 670
+    },
+    {
+      "id": "brunner-strasse",
+      "name": "Brünner Straße",
+      "lat": 48.268548,
+      "lon": 16.404068,
+      "x": 930,
+      "y": 266
+    },
+    {
+      "id": "brunnlbadgasse",
+      "name": "Brünnlbadgasse",
+      "lat": 48.2154879,
+      "lon": 16.3458617,
+      "x": 589,
+      "y": 639
+    },
+    {
+      "id": "bruno-marek-allee",
+      "name": "Bruno-Marek-Allee",
+      "lat": 48.2286698,
+      "lon": 16.3923315,
+      "x": 861,
+      "y": 547
+    },
+    {
+      "id": "brusslgasse",
+      "name": "Brüßlgasse",
+      "lat": 48.2072448,
+      "lon": 16.3210906,
+      "x": 443,
+      "y": 697
+    },
+    {
+      "id": "burggasse-neubaugasse",
+      "name": "Burggasse/Neubaugasse",
+      "lat": 48.2040129,
+      "lon": 16.3487722,
+      "x": 606,
+      "y": 720
+    },
+    {
+      "id": "burggasse-stadthalle",
+      "name": "Burggasse-Stadthalle",
+      "lat": 48.2028065,
+      "lon": 16.3372289,
+      "x": 538,
+      "y": 729
+    },
+    {
+      "id": "burggasse-zieglergasse",
+      "name": "Burggasse/Zieglergasse",
+      "lat": 48.2042723,
+      "lon": 16.3452688,
+      "x": 585,
+      "y": 718
+    },
+    {
+      "id": "burgring",
+      "name": "Burgring",
+      "lat": 48.2039251,
+      "lon": 16.3637696,
+      "x": 694,
+      "y": 721
+    },
+    {
+      "id": "camillo-sitte-gasse",
+      "name": "Camillo-Sitte-Gasse",
+      "lat": 48.2050027,
+      "lon": 16.327015,
+      "x": 478,
+      "y": 713
+    },
+    {
+      "id": "carabelligasse",
+      "name": "Carabelligasse",
+      "lat": 48.2802785,
+      "lon": 16.4108907,
+      "x": 970,
+      "y": 184
+    },
+    {
+      "id": "clemens-holzmeister-strasse",
+      "name": "Clemens-Holzmeister-Straße",
+      "lat": 48.1692061,
+      "lon": 16.3476089,
+      "x": 599,
+      "y": 965
+    },
+    {
+      "id": "columbusplatz",
+      "name": "Columbusplatz",
+      "lat": 48.182334,
+      "lon": 16.3737005,
+      "x": 752,
+      "y": 872
+    },
+    {
+      "id": "daumegasse",
+      "name": "Daumegasse",
+      "lat": 48.1640953,
+      "lon": 16.3740059,
+      "x": 754,
+      "y": 1001
+    },
+    {
+      "id": "davidgasse",
+      "name": "Davidgasse",
+      "lat": 48.1754275,
+      "lon": 16.3562732,
+      "x": 650,
+      "y": 921
+    },
+    {
+      "id": "deutschordenstrasse",
+      "name": "Deutschordenstraße",
+      "lat": 48.2000153,
+      "lon": 16.2672277,
+      "x": 128,
+      "y": 748
+    },
+    {
+      "id": "donauinsel",
+      "name": "Donauinsel",
+      "lat": 48.2291994,
+      "lon": 16.4113668,
+      "x": 973,
+      "y": 543
+    },
+    {
+      "id": "donaumarina",
+      "name": "Donaumarina",
+      "lat": 48.2062839,
+      "lon": 16.4312555,
+      "x": 1089,
+      "y": 704
+    },
+    {
+      "id": "donauspital",
+      "name": "Donauspital",
+      "lat": 48.2194443,
+      "lon": 16.4664965,
+      "x": 1296,
+      "y": 612
+    },
+    {
+      "id": "donaustadtbrucke",
+      "name": "Donaustadtbrücke",
+      "lat": 48.2117676,
+      "lon": 16.440104,
+      "x": 1141,
+      "y": 666
+    },
+    {
+      "id": "dornbach",
+      "name": "Dornbach",
+      "lat": 48.2261683,
+      "lon": 16.3081504,
+      "x": 368,
+      "y": 564
+    },
+    {
+      "id": "dornbacher-strasse",
+      "name": "Dornbacher Straße",
+      "lat": 48.2282359,
+      "lon": 16.3020643,
+      "x": 332,
+      "y": 550
+    },
+    {
+      "id": "dr-natterer-gasse",
+      "name": "Dr.-Natterer-Gasse",
+      "lat": 48.2127014,
+      "lon": 16.4204758,
+      "x": 1026,
+      "y": 659
+    },
+    {
+      "id": "dresdner-strasse",
+      "name": "Dresdner Straße",
+      "lat": 48.2372998,
+      "lon": 16.3795755,
+      "x": 786,
+      "y": 486
+    },
+    {
+      "id": "eibesbrunnergasse",
+      "name": "Eibesbrunnergasse",
+      "lat": 48.1709884,
+      "lon": 16.3377858,
+      "x": 541,
+      "y": 952
+    },
+    {
+      "id": "eichenstrasse",
+      "name": "Eichenstraße",
+      "lat": 48.1804922,
+      "lon": 16.3496526,
+      "x": 611,
+      "y": 885
+    },
+    {
+      "id": "elterleinplatz",
+      "name": "Elterleinplatz",
+      "lat": 48.2181215,
+      "lon": 16.3324094,
+      "x": 510,
+      "y": 621
+    },
+    {
+      "id": "empergergasse",
+      "name": "Empergergasse",
+      "lat": 48.2863131,
+      "lon": 16.4141651,
+      "x": 989,
+      "y": 142
+    },
+    {
+      "id": "enkplatz",
+      "name": "Enkplatz",
+      "lat": 48.174466,
+      "lon": 16.4151607,
+      "x": 995,
+      "y": 928
+    },
+    {
+      "id": "erdberg",
+      "name": "Erdberg",
+      "lat": 48.1914434,
+      "lon": 16.4141292,
+      "x": 989,
+      "y": 808
+    },
+    {
+      "id": "erlaaer-strasse",
+      "name": "Erlaaer Straße",
+      "lat": 48.1423017,
+      "lon": 16.3165497,
+      "x": 417,
+      "y": 1154
+    },
+    {
+      "id": "erlachplatz",
+      "name": "Erlachplatz",
+      "lat": 48.1786323,
+      "lon": 16.3689664,
+      "x": 724,
+      "y": 898
+    },
+    {
+      "id": "ernst-happel-stadion",
+      "name": "Ernst-Happel-Stadion",
+      "lat": 48.2077447,
+      "lon": 16.4184501,
+      "x": 1014,
+      "y": 694
+    },
+    {
+      "id": "esterhazygasse",
+      "name": "Esterházygasse",
+      "lat": 48.1950334,
+      "lon": 16.3519568,
+      "x": 624,
+      "y": 783
+    },
+    {
+      "id": "evangelischer-friedhof",
+      "name": "Evangelischer Friedhof",
+      "lat": 48.1797973,
+      "lon": 16.3601808,
+      "x": 673,
+      "y": 890
+    },
+    {
+      "id": "fasangasse",
+      "name": "Fasangasse",
+      "lat": 48.1884081,
+      "lon": 16.3850941,
+      "x": 819,
+      "y": 830
+    },
+    {
+      "id": "fendigasse",
+      "name": "Fendigasse",
+      "lat": 48.18408,
+      "lon": 16.3555366,
+      "x": 645,
+      "y": 860
+    },
+    {
+      "id": "florian-geyer-gasse",
+      "name": "Florian-Geyer-Gasse",
+      "lat": 48.1569497,
+      "lon": 16.3919138,
+      "x": 859,
+      "y": 1051
+    },
+    {
+      "id": "floridsdorf",
+      "name": "Floridsdorf",
+      "lat": 48.2566443,
+      "lon": 16.3999066,
+      "x": 905,
+      "y": 350
+    },
+    {
+      "id": "floridsdorfer-brucke",
+      "name": "Floridsdorfer Brücke",
+      "lat": 48.2486023,
+      "lon": 16.3878759,
+      "x": 835,
+      "y": 407
+    },
+    {
+      "id": "floridsdorfer-markt",
+      "name": "Floridsdorfer Markt",
+      "lat": 48.2621495,
+      "lon": 16.40034,
+      "x": 908,
+      "y": 311
+    },
+    {
+      "id": "franz-josefs-bahnhof",
+      "name": "Franz-Josefs-Bahnhof",
+      "lat": 48.2257673,
+      "lon": 16.3611465,
+      "x": 678,
+      "y": 567
+    },
+    {
+      "id": "franzensbrucke",
+      "name": "Franzensbrücke",
+      "lat": 48.2139076,
+      "lon": 16.3914961,
+      "x": 856,
+      "y": 651
+    },
+    {
+      "id": "friedensbrucke",
+      "name": "Friedensbrücke",
+      "lat": 48.2277961,
+      "lon": 16.3640211,
+      "x": 695,
+      "y": 553
+    },
+    {
+      "id": "friedrich-engels-platz",
+      "name": "Friedrich-Engels-Platz",
+      "lat": 48.2441725,
+      "lon": 16.379824,
+      "x": 788,
+      "y": 438
+    },
+    {
+      "id": "gasometer",
+      "name": "Gasometer",
+      "lat": 48.1849005,
+      "lon": 16.4172643,
+      "x": 1007,
+      "y": 854
+    },
+    {
+      "id": "gaussplatz",
+      "name": "Gaußplatz",
+      "lat": 48.2262551,
+      "lon": 16.3700354,
+      "x": 730,
+      "y": 564
+    },
+    {
+      "id": "geiereckstrasse",
+      "name": "Geiereckstraße",
+      "lat": 48.1753616,
+      "lon": 16.3994507,
+      "x": 903,
+      "y": 921
+    },
+    {
+      "id": "gellertplatz",
+      "name": "Gellertplatz",
+      "lat": 48.1749692,
+      "lon": 16.3826971,
+      "x": 805,
+      "y": 924
+    },
+    {
+      "id": "gerhardusgasse",
+      "name": "Gerhardusgasse",
+      "lat": 48.2317396,
+      "lon": 16.3663657,
+      "x": 709,
+      "y": 525
+    },
+    {
+      "id": "gesundheitszentrum-sud",
+      "name": "Gesundheitszentrum Süd",
+      "lat": 48.1698771,
+      "lon": 16.3451565,
+      "x": 585,
+      "y": 960
+    },
+    {
+      "id": "gredlerstrasse",
+      "name": "Gredlerstraße",
+      "lat": 48.2138807,
+      "lon": 16.3794048,
+      "x": 785,
+      "y": 651
+    },
+    {
+      "id": "grenzackerstrasse",
+      "name": "Grenzackerstraße",
+      "lat": 48.1650031,
+      "lon": 16.3683555,
+      "x": 720,
+      "y": 994
+    },
+    {
+      "id": "grillgasse",
+      "name": "Grillgasse",
+      "lat": 48.167211,
+      "lon": 16.4084518,
+      "x": 955,
+      "y": 979
+    },
+    {
+      "id": "grinzinger-strasse",
+      "name": "Grinzinger Straße",
+      "lat": 48.2544552,
+      "lon": 16.3652563,
+      "x": 702,
+      "y": 366
+    },
+    {
+      "id": "grossfeldsiedlung",
+      "name": "Großfeldsiedlung",
+      "lat": 48.2710294,
+      "lon": 16.4478968,
+      "x": 1187,
+      "y": 249
+    },
+    {
+      "id": "grossjedlersdorf",
+      "name": "Großjedlersdorf",
+      "lat": 48.2768409,
+      "lon": 16.4088111,
+      "x": 958,
+      "y": 208
+    },
+    {
+      "id": "gumpendorfer-strasse",
+      "name": "Gumpendorfer Straße",
+      "lat": 48.1906934,
+      "lon": 16.3377072,
+      "x": 541,
+      "y": 814
+    },
+    {
+      "id": "gunoldstrasse",
+      "name": "Gunoldstraße",
+      "lat": 48.244684,
+      "lon": 16.361708,
+      "x": 682,
+      "y": 434
+    },
+    {
+      "id": "gusshausstrasse",
+      "name": "Gußhausstraße",
+      "lat": 48.1976532,
+      "lon": 16.3752815,
+      "x": 761,
+      "y": 765
+    },
+    {
+      "id": "gussriegelstrasse",
+      "name": "Gußriegelstraße",
+      "lat": 48.166474,
+      "lon": 16.3583078,
+      "x": 662,
+      "y": 984
+    },
+    {
+      "id": "gutraterplatz",
+      "name": "Gutraterplatz",
+      "lat": 48.208062,
+      "lon": 16.3094575,
+      "x": 375,
+      "y": 692
+    },
+    {
+      "id": "haberlgasse",
+      "name": "Haberlgasse",
+      "lat": 48.2117676,
+      "lon": 16.3309407,
+      "x": 501,
+      "y": 666
+    },
+    {
+      "id": "halteraugasse",
+      "name": "Halteraugasse",
+      "lat": 48.2519341,
+      "lon": 16.3639268,
+      "x": 695,
+      "y": 383
+    },
+    {
+      "id": "handelskai",
+      "name": "Handelskai",
+      "lat": 48.2418573,
+      "lon": 16.3856795,
+      "x": 822,
+      "y": 454
+    },
+    {
+      "id": "hanreitergasse",
+      "name": "Hanreitergasse",
+      "lat": 48.2835484,
+      "lon": 16.412602,
+      "x": 980,
+      "y": 161
+    },
+    {
+      "id": "hardeggasse",
+      "name": "Hardeggasse",
+      "lat": 48.2209017,
+      "lon": 16.4577558,
+      "x": 1244,
+      "y": 601
+    },
+    {
+      "id": "hauptbahnhof",
+      "name": "Hauptbahnhof",
+      "lat": 48.1860373,
+      "lon": 16.3745611,
+      "x": 757,
+      "y": 846
+    },
+    {
+      "id": "hauptbahnhof-ost",
+      "name": "Hauptbahnhof Ost",
+      "lat": 48.1845831,
+      "lon": 16.3805726,
+      "x": 792,
+      "y": 857
+    },
+    {
+      "id": "haus-des-meeres",
+      "name": "Haus des Meeres",
+      "lat": 48.1973388,
+      "lon": 16.3540004,
+      "x": 636,
+      "y": 767
+    },
+    {
+      "id": "hausfeldstrasse",
+      "name": "Hausfeldstraße",
+      "lat": 48.233412,
+      "lon": 16.48568,
+      "x": 1408,
+      "y": 513
+    },
+    {
+      "id": "heiligenstadt",
+      "name": "Heiligenstadt",
+      "lat": 48.2486442,
+      "lon": 16.3659076,
+      "x": 706,
+      "y": 406
+    },
+    {
+      "id": "heiligenstadt-12-februar-platz",
+      "name": "Heiligenstadt/12.-Februar-Platz",
+      "lat": 48.2489552,
+      "lon": 16.3627635,
+      "x": 688,
+      "y": 404
+    },
+    {
+      "id": "heinestrasse",
+      "name": "Heinestraße",
+      "lat": 48.2222752,
+      "lon": 16.3823288,
+      "x": 802,
+      "y": 592
+    },
+    {
+      "id": "heinrich-drimmel-platz",
+      "name": "Heinrich-Drimmel-Platz",
+      "lat": 48.1878951,
+      "lon": 16.3914916,
+      "x": 856,
+      "y": 833
+    },
+    {
+      "id": "hernals",
+      "name": "Hernals",
+      "lat": 48.2235949,
+      "lon": 16.3149776,
+      "x": 408,
+      "y": 582
+    },
+    {
+      "id": "hernals-wattgasse",
+      "name": "Hernals, Wattgasse",
+      "lat": 48.2213895,
+      "lon": 16.3217823,
+      "x": 448,
+      "y": 598
+    },
+    {
+      "id": "herrengasse",
+      "name": "Herrengasse",
+      "lat": 48.2093281,
+      "lon": 16.3651081,
+      "x": 701,
+      "y": 683
+    },
+    {
+      "id": "hetzgasse",
+      "name": "Hetzgasse",
+      "lat": 48.2084002,
+      "lon": 16.3929649,
+      "x": 865,
+      "y": 689
+    },
+    {
+      "id": "hietzing",
+      "name": "Hietzing",
+      "lat": 48.1875657,
+      "lon": 16.3048132,
+      "x": 348,
+      "y": 836
+    },
+    {
+      "id": "himmelmutterweg",
+      "name": "Himmelmutterweg",
+      "lat": 48.2306505,
+      "lon": 16.2960097,
+      "x": 297,
+      "y": 533
+    },
+    {
+      "id": "hintere-zollamtsstrasse",
+      "name": "Hintere Zollamtsstraße",
+      "lat": 48.2110732,
+      "lon": 16.3870045,
+      "x": 830,
+      "y": 670
+    },
+    {
+      "id": "hlawkagasse",
+      "name": "Hlawkagasse",
+      "lat": 48.1791115,
+      "lon": 16.3828723,
+      "x": 806,
+      "y": 895
+    },
+    {
+      "id": "hochsatzengasse",
+      "name": "Hochsatzengasse",
+      "lat": 48.1979825,
+      "lon": 16.277437,
+      "x": 188,
+      "y": 762
+    },
+    {
+      "id": "hochstadtplatz",
+      "name": "Höchstädtplatz",
+      "lat": 48.2392189,
+      "lon": 16.3769614,
+      "x": 771,
+      "y": 473
+    },
+    {
+      "id": "hubertusdamm",
+      "name": "Hubertusdamm",
+      "lat": 48.250678,
+      "lon": 16.3921249,
+      "x": 860,
+      "y": 392
+    },
+    {
+      "id": "huglgasse",
+      "name": "Huglgasse",
+      "lat": 48.1978957,
+      "lon": 16.3252004,
+      "x": 468,
+      "y": 763
+    },
+    {
+      "id": "hutteldorf",
+      "name": "Hütteldorf",
+      "lat": 48.1970185,
+      "lon": 16.2606295,
+      "x": 89,
+      "y": 769
+    },
+    {
+      "id": "hutteldorf-bujattigasse",
+      "name": "Hütteldorf, Bujattigasse",
+      "lat": 48.2027845,
+      "lon": 16.2556484,
+      "x": 60,
+      "y": 729
+    },
+    {
+      "id": "hutteldorfer-strasse",
+      "name": "Hütteldorfer Straße",
+      "lat": 48.1994181,
+      "lon": 16.3115595,
+      "x": 388,
+      "y": 752
+    },
+    {
+      "id": "innstrasse",
+      "name": "Innstraße",
+      "lat": 48.2308929,
+      "lon": 16.3863712,
+      "x": 826,
+      "y": 531
+    },
+    {
+      "id": "jagerstrasse",
+      "name": "Jägerstraße",
+      "lat": 48.2357217,
+      "lon": 16.3692336,
+      "x": 726,
+      "y": 497
+    },
+    {
+      "id": "joachimsthalerplatz",
+      "name": "Joachimsthalerplatz",
+      "lat": 48.2090647,
+      "lon": 16.3050602,
+      "x": 350,
+      "y": 685
+    },
+    {
+      "id": "johann-nepomuk-berger-platz",
+      "name": "Johann-Nepomuk-Berger-Platz",
+      "lat": 48.2137998,
+      "lon": 16.3260449,
+      "x": 473,
+      "y": 651
+    },
+    {
+      "id": "johann-strauss-gasse",
+      "name": "Johann-Strauß-Gasse",
+      "lat": 48.1900615,
+      "lon": 16.3659323,
+      "x": 706,
+      "y": 818
+    },
+    {
+      "id": "johnstrasse",
+      "name": "Johnstraße",
+      "lat": 48.1983298,
+      "lon": 16.3199183,
+      "x": 437,
+      "y": 760
+    },
+    {
+      "id": "josefstadter-strasse",
+      "name": "Josefstädter Straße",
+      "lat": 48.2113006,
+      "lon": 16.3391311,
+      "x": 549,
+      "y": 669
+    },
+    {
+      "id": "julius-raab-platz",
+      "name": "Julius-Raab-Platz",
+      "lat": 48.2108322,
+      "lon": 16.3829329,
+      "x": 806,
+      "y": 672
+    },
+    {
+      "id": "kagran",
+      "name": "Kagran",
+      "lat": 48.2432063,
+      "lon": 16.4331959,
+      "x": 1100,
+      "y": 445
+    },
+    {
+      "id": "kagraner-platz",
+      "name": "Kagraner Platz",
+      "lat": 48.2503819,
+      "lon": 16.4433693,
+      "x": 1160,
+      "y": 394
+    },
+    {
+      "id": "kaisermuhlen-vic",
+      "name": "Kaisermühlen-VIC",
+      "lat": 48.2328526,
+      "lon": 16.4164603,
+      "x": 1002,
+      "y": 517
+    },
+    {
+      "id": "kaiserstrasse",
+      "name": "Kaiserstraße",
+      "lat": 48.2018385,
+      "lon": 16.3405167,
+      "x": 557,
+      "y": 735
+    },
+    {
+      "id": "kaiserstrasse-burggasse",
+      "name": "Kaiserstraße/Burggasse",
+      "lat": 48.2042903,
+      "lon": 16.3403999,
+      "x": 557,
+      "y": 718
+    },
+    {
+      "id": "kaiserstrasse-neustiftgasse",
+      "name": "Kaiserstraße/Neustiftgasse",
+      "lat": 48.2061043,
+      "lon": 16.3393938,
+      "x": 551,
+      "y": 705
+    },
+    {
+      "id": "kardinal-nagl-platz",
+      "name": "Kardinal-Nagl-Platz",
+      "lat": 48.1974885,
+      "lon": 16.4000526,
+      "x": 906,
+      "y": 766
+    },
+    {
+      "id": "karl-popper-strasse",
+      "name": "Karl-Popper-Straße",
+      "lat": 48.1874459,
+      "lon": 16.3791263,
+      "x": 784,
+      "y": 837
+    },
+    {
+      "id": "karlsplatz",
+      "name": "Karlsplatz",
+      "lat": 48.2008177,
+      "lon": 16.3692384,
+      "x": 726,
+      "y": 743
+    },
+    {
+      "id": "karmeliterplatz",
+      "name": "Karmeliterplatz",
+      "lat": 48.2157512,
+      "lon": 16.3803795,
+      "x": 791,
+      "y": 638
+    },
+    {
+      "id": "kellermanngasse",
+      "name": "Kellermanngasse",
+      "lat": 48.2051973,
+      "lon": 16.3517142,
+      "x": 623,
+      "y": 712
+    },
+    {
+      "id": "kendlerstrasse",
+      "name": "Kendlerstraße",
+      "lat": 48.2045806,
+      "lon": 16.3091431,
+      "x": 373,
+      "y": 716
+    },
+    {
+      "id": "keplerplatz",
+      "name": "Keplerplatz",
+      "lat": 48.1786892,
+      "lon": 16.3760922,
+      "x": 766,
+      "y": 898
+    },
+    {
+      "id": "kettenbruckengasse",
+      "name": "Kettenbrückengasse",
+      "lat": 48.1966412,
+      "lon": 16.3580833,
+      "x": 660,
+      "y": 772
+    },
+    {
+      "id": "kirchengasse",
+      "name": "Kirchengasse",
+      "lat": 48.2022127,
+      "lon": 16.3517771,
+      "x": 623,
+      "y": 733
+    },
+    {
+      "id": "kirchstetterngasse",
+      "name": "Kirchstetterngasse",
+      "lat": 48.2069604,
+      "lon": 16.3317492,
+      "x": 506,
+      "y": 699
+    },
+    {
+      "id": "kliebergasse",
+      "name": "Kliebergasse",
+      "lat": 48.182914,
+      "lon": 16.3642921,
+      "x": 697,
+      "y": 868
+    },
+    {
+      "id": "klinik-ottakring",
+      "name": "Klinik Ottakring",
+      "lat": 48.2082416,
+      "lon": 16.3001869,
+      "x": 321,
+      "y": 690
+    },
+    {
+      "id": "klinik-penzing",
+      "name": "Klinik Penzing",
+      "lat": 48.205326,
+      "lon": 16.2729005,
+      "x": 161,
+      "y": 711
+    },
+    {
+      "id": "klosterneuburger-strasse-wallensteinstrasse",
+      "name": "Klosterneuburger Straße/Wallensteinstraße",
+      "lat": 48.2287057,
+      "lon": 16.3683331,
+      "x": 720,
+      "y": 547
+    },
+    {
+      "id": "knollgasse",
+      "name": "Knöllgasse",
+      "lat": 48.1772975,
+      "lon": 16.3582105,
+      "x": 661,
+      "y": 908
+    },
+    {
+      "id": "knollgasse-troststrasse",
+      "name": "Knöllgasse/Troststraße",
+      "lat": 48.1727557,
+      "lon": 16.3536995,
+      "x": 635,
+      "y": 940
+    },
+    {
+      "id": "kolblgasse",
+      "name": "Kölblgasse",
+      "lat": 48.1911141,
+      "lon": 16.3857154,
+      "x": 822,
+      "y": 811
+    },
+    {
+      "id": "kolschitzkygasse",
+      "name": "Kolschitzkygasse",
+      "lat": 48.1880209,
+      "lon": 16.3729055,
+      "x": 747,
+      "y": 832
+    },
+    {
+      "id": "krakauer-strasse",
+      "name": "Krakauer Straße",
+      "lat": 48.2246063,
+      "lon": 16.3931535,
+      "x": 866,
+      "y": 575
+    },
+    {
+      "id": "krieau",
+      "name": "Krieau",
+      "lat": 48.2146917,
+      "lon": 16.4137474,
+      "x": 986,
+      "y": 645
+    },
+    {
+      "id": "landesgerichtsstrasse",
+      "name": "Landesgerichtsstraße",
+      "lat": 48.2145511,
+      "lon": 16.3562732,
+      "x": 650,
+      "y": 646
+    },
+    {
+      "id": "landstrasse",
+      "name": "Landstraße",
+      "lat": 48.2061522,
+      "lon": 16.3853426,
+      "x": 820,
+      "y": 705
+    },
+    {
+      "id": "lange-gasse",
+      "name": "Lange Gasse",
+      "lat": 48.215012,
+      "lon": 16.3509147,
+      "x": 618,
+      "y": 643
+    },
+    {
+      "id": "langenfeldgasse",
+      "name": "Längenfeldgasse",
+      "lat": 48.1848571,
+      "lon": 16.3349786,
+      "x": 525,
+      "y": 855
+    },
+    {
+      "id": "langsulzgasse",
+      "name": "Langsulzgasse",
+      "lat": 48.1579265,
+      "lon": 16.3997561,
+      "x": 904,
+      "y": 1044
+    },
+    {
+      "id": "laudongasse",
+      "name": "Laudongasse",
+      "lat": 48.2132461,
+      "lon": 16.3489564,
+      "x": 607,
+      "y": 655
+    },
+    {
+      "id": "laurenzgasse",
+      "name": "Laurenzgasse",
+      "lat": 48.1858618,
+      "lon": 16.3629656,
+      "x": 689,
+      "y": 848
+    },
+    {
+      "id": "laxenburger-strasse-gudrunstrasse",
+      "name": "Laxenburger Straße/Gudrunstraße",
+      "lat": 48.1784002,
+      "lon": 16.3729212,
+      "x": 747,
+      "y": 900
+    },
+    {
+      "id": "laxenburger-strasse-troststrasse",
+      "name": "Laxenburger Straße/Troststraße",
+      "lat": 48.1692839,
+      "lon": 16.36942,
+      "x": 727,
+      "y": 964
+    },
+    {
+      "id": "lederergasse",
+      "name": "Lederergasse",
+      "lat": 48.2097203,
+      "lon": 16.3487573,
+      "x": 606,
+      "y": 680
+    },
+    {
+      "id": "leibenfrostgasse",
+      "name": "Leibenfrostgasse",
+      "lat": 48.1899552,
+      "lon": 16.3629926,
+      "x": 689,
+      "y": 819
+    },
+    {
+      "id": "leopoldau",
+      "name": "Leopoldau",
+      "lat": 48.2775853,
+      "lon": 16.4520695,
+      "x": 1211,
+      "y": 203
+    },
+    {
+      "id": "leyserstrasse",
+      "name": "Leyserstraße",
+      "lat": 48.1981292,
+      "lon": 16.3023473,
+      "x": 334,
+      "y": 761
+    },
+    {
+      "id": "liebknechtgasse",
+      "name": "Liebknechtgasse",
+      "lat": 48.2226523,
+      "lon": 16.306776,
+      "x": 360,
+      "y": 589
+    },
+    {
+      "id": "liechtenwerder-platz",
+      "name": "Liechtenwerder Platz",
+      "lat": 48.2325564,
+      "lon": 16.3565741,
+      "x": 651,
+      "y": 519
+    },
+    {
+      "id": "lina-loos-platz",
+      "name": "Lina-Loos-Platz",
+      "lat": 48.2282958,
+      "lon": 16.4785024,
+      "x": 1366,
+      "y": 549
+    },
+    {
+      "id": "lorystrasse",
+      "name": "Lorystraße",
+      "lat": 48.1718181,
+      "lon": 16.4138148,
+      "x": 987,
+      "y": 946
+    },
+    {
+      "id": "lowengasse",
+      "name": "Löwengasse",
+      "lat": 48.2060744,
+      "lon": 16.3950489,
+      "x": 877,
+      "y": 706
+    },
+    {
+      "id": "ludwig-koessler-platz",
+      "name": "Ludwig-Koeßler-Platz",
+      "lat": 48.1958568,
+      "lon": 16.4096241,
+      "x": 962,
+      "y": 777
+    },
+    {
+      "id": "lutzowgasse",
+      "name": "Lützowgasse",
+      "lat": 48.197261,
+      "lon": 16.2949407,
+      "x": 290,
+      "y": 768
+    },
+    {
+      "id": "mannertreugasse",
+      "name": "Männertreugasse",
+      "lat": 48.159862,
+      "lon": 16.4048002,
+      "x": 934,
+      "y": 1030
+    },
+    {
+      "id": "margaretengurtel",
+      "name": "Margaretengürtel",
+      "lat": 48.1883996,
+      "lon": 16.342502,
+      "x": 569,
+      "y": 830
+    },
+    {
+      "id": "margaretenplatz-schonbrunner-strasse",
+      "name": "Margaretenplatz/Schönbrunner Straße",
+      "lat": 48.1919315,
+      "lon": 16.3567538,
+      "x": 652,
+      "y": 805
+    },
+    {
+      "id": "mariahilfer-gurtel",
+      "name": "Mariahilfer Gürtel",
+      "lat": 48.193222,
+      "lon": 16.3388773,
+      "x": 548,
+      "y": 796
+    },
+    {
+      "id": "marienbrucke",
+      "name": "Marienbrücke",
+      "lat": 48.2131982,
+      "lon": 16.3774285,
+      "x": 774,
+      "y": 656
+    },
+    {
+      "id": "marxergasse",
+      "name": "Marxergasse",
+      "lat": 48.2075681,
+      "lon": 16.3865329,
+      "x": 827,
+      "y": 695
+    },
+    {
+      "id": "matthaus-jiszda-strasse",
+      "name": "Matthäus-Jiszda-Straße",
+      "lat": 48.2537764,
+      "lon": 16.3949906,
+      "x": 877,
+      "y": 370
+    },
+    {
+      "id": "matzleinsdorfer-platz",
+      "name": "Matzleinsdorfer Platz",
+      "lat": 48.1805772,
+      "lon": 16.3591334,
+      "x": 666,
+      "y": 885
+    },
+    {
+      "id": "max-mauermann-gasse",
+      "name": "Max-Mauermann-Gasse",
+      "lat": 48.1631067,
+      "lon": 16.4093591,
+      "x": 961,
+      "y": 1008
+    },
+    {
+      "id": "mayerhofgasse",
+      "name": "Mayerhofgasse",
+      "lat": 48.1926321,
+      "lon": 16.3669496,
+      "x": 712,
+      "y": 800
+    },
+    {
+      "id": "mayssengasse",
+      "name": "Mayssengasse",
+      "lat": 48.2159877,
+      "lon": 16.3254565,
+      "x": 469,
+      "y": 636
+    },
+    {
+      "id": "meidling",
+      "name": "Meidling",
+      "lat": 48.1735165,
+      "lon": 16.3314033,
+      "x": 504,
+      "y": 934
+    },
+    {
+      "id": "meidling-hauptstrasse",
+      "name": "Meidling Hauptstraße",
+      "lat": 48.1836517,
+      "lon": 16.3279313,
+      "x": 484,
+      "y": 863
+    },
+    {
+      "id": "meidling-schedifkaplatz",
+      "name": "Meidling, Schedifkaplatz",
+      "lat": 48.172555,
+      "lon": 16.3320276,
+      "x": 508,
+      "y": 941
+    },
+    {
+      "id": "messe-prater",
+      "name": "Messe-Prater",
+      "lat": 48.2177893,
+      "lon": 16.4050337,
+      "x": 935,
+      "y": 623
+    },
+    {
+      "id": "michelbeuern-akh",
+      "name": "Michelbeuern-AKH",
+      "lat": 48.2212368,
+      "lon": 16.3442268,
+      "x": 579,
+      "y": 599
+    },
+    {
+      "id": "moeringgasse",
+      "name": "Moeringgasse",
+      "lat": 48.2040209,
+      "lon": 16.3341477,
+      "x": 520,
+      "y": 720
+    },
+    {
+      "id": "mommsengasse",
+      "name": "Mommsengasse",
+      "lat": 48.1885778,
+      "lon": 16.3788029,
+      "x": 782,
+      "y": 829
+    },
+    {
+      "id": "muhlfeldgasse",
+      "name": "Mühlfeldgasse",
+      "lat": 48.2203989,
+      "lon": 16.3900588,
+      "x": 848,
+      "y": 605
+    },
+    {
+      "id": "museumsquartier",
+      "name": "Museumsquartier",
+      "lat": 48.2027157,
+      "lon": 16.3612184,
+      "x": 679,
+      "y": 729
+    },
+    {
+      "id": "neilreichgasse",
+      "name": "Neilreichgasse",
+      "lat": 48.1761763,
+      "lon": 16.3655528,
+      "x": 704,
+      "y": 916
+    },
+    {
+      "id": "nestroyplatz",
+      "name": "Nestroyplatz",
+      "lat": 48.2152873,
+      "lon": 16.3855043,
+      "x": 821,
+      "y": 641
+    },
+    {
+      "id": "neubaugasse",
+      "name": "Neubaugasse",
+      "lat": 48.1987148,
+      "lon": 16.3511546,
+      "x": 620,
+      "y": 757
+    },
+    {
+      "id": "neue-donau",
+      "name": "Neue Donau",
+      "lat": 48.2464069,
+      "lon": 16.3948154,
+      "x": 876,
+      "y": 422
+    },
+    {
+      "id": "neulaa",
+      "name": "Neulaa",
+      "lat": 48.1456494,
+      "lon": 16.3861377,
+      "x": 825,
+      "y": 1130
+    },
+    {
+      "id": "neulandschule",
+      "name": "Neulandschule",
+      "lat": 48.1587954,
+      "lon": 16.3873459,
+      "x": 832,
+      "y": 1038
+    },
+    {
+      "id": "neustiftgasse-neubaugasse",
+      "name": "Neustiftgasse/Neubaugasse",
+      "lat": 48.2055475,
+      "lon": 16.3483949,
+      "x": 604,
+      "y": 709
+    },
+    {
+      "id": "neustiftgasse-zieglergasse",
+      "name": "Neustiftgasse/Zieglergasse",
+      "lat": 48.2057331,
+      "lon": 16.3450981,
+      "x": 584,
+      "y": 708
+    },
+    {
+      "id": "neuwaldegg",
+      "name": "Neuwaldegg",
+      "lat": 48.2336484,
+      "lon": 16.2913699,
+      "x": 269,
+      "y": 512
+    },
+    {
+      "id": "niederhofstrasse",
+      "name": "Niederhofstraße",
+      "lat": 48.1808156,
+      "lon": 16.3311563,
+      "x": 502,
+      "y": 883
+    },
+    {
+      "id": "nordbahnstrasse",
+      "name": "Nordbahnstraße",
+      "lat": 48.2234932,
+      "lon": 16.389695,
+      "x": 846,
+      "y": 583
+    },
+    {
+      "id": "nussdorf",
+      "name": "Nußdorf",
+      "lat": 48.2599905,
+      "lon": 16.3670979,
+      "x": 713,
+      "y": 327
+    },
+    {
+      "id": "nussdorf-beethovengang",
+      "name": "Nußdorf, Beethovengang",
+      "lat": 48.2596466,
+      "lon": 16.362741,
+      "x": 688,
+      "y": 329
+    },
+    {
+      "id": "nussdorfer-strasse",
+      "name": "Nußdorfer Straße",
+      "lat": 48.2313417,
+      "lon": 16.3524733,
+      "x": 627,
+      "y": 528
+    },
+    {
+      "id": "ober-st-veit",
+      "name": "Ober St. Veit",
+      "lat": 48.1922459,
+      "lon": 16.2761524,
+      "x": 180,
+      "y": 803
+    },
+    {
+      "id": "obere-augartenstrasse",
+      "name": "Obere Augartenstraße",
+      "lat": 48.2224338,
+      "lon": 16.3748369,
+      "x": 758,
+      "y": 591
+    },
+    {
+      "id": "obere-donaustrasse",
+      "name": "Obere Donaustraße",
+      "lat": 48.2195341,
+      "lon": 16.3711672,
+      "x": 737,
+      "y": 611
+    },
+    {
+      "id": "oberlaa",
+      "name": "Oberlaa",
+      "lat": 48.1423107,
+      "lon": 16.3999313,
+      "x": 906,
+      "y": 1154
+    },
+    {
+      "id": "oper-karlsplatz",
+      "name": "Oper/Karlsplatz",
+      "lat": 48.2023624,
+      "lon": 16.3695323,
+      "x": 727,
+      "y": 732
+    },
+    {
+      "id": "ottakring",
+      "name": "Ottakring",
+      "lat": 48.2107664,
+      "lon": 16.310778,
+      "x": 383,
+      "y": 673
+    },
+    {
+      "id": "otto-wagner-areal",
+      "name": "Otto-Wagner-Areal",
+      "lat": 48.2068617,
+      "lon": 16.2802218,
+      "x": 204,
+      "y": 700
+    },
+    {
+      "id": "palffygasse",
+      "name": "Palffygasse",
+      "lat": 48.2175978,
+      "lon": 16.3366315,
+      "x": 535,
+      "y": 625
+    },
+    {
+      "id": "panikengasse",
+      "name": "Panikengasse",
+      "lat": 48.2080081,
+      "lon": 16.324904,
+      "x": 466,
+      "y": 692
+    },
+    {
+      "id": "parlament",
+      "name": "Parlament",
+      "lat": 48.2085709,
+      "lon": 16.360091,
+      "x": 672,
+      "y": 688
+    },
+    {
+      "id": "parlament-volkstheater",
+      "name": "Parlament/Volkstheater",
+      "lat": 48.2067689,
+      "lon": 16.3598724,
+      "x": 671,
+      "y": 701
+    },
+    {
+      "id": "paulanergasse",
+      "name": "Paulanergasse",
+      "lat": 48.1953628,
+      "lon": 16.367035,
+      "x": 713,
+      "y": 781
+    },
+    {
+      "id": "perfektastrasse",
+      "name": "Perfektastraße",
+      "lat": 48.1366517,
+      "lon": 16.3132708,
+      "x": 398,
+      "y": 1194
+    },
+    {
+      "id": "pfenninggeldgasse",
+      "name": "Pfenninggeldgasse",
+      "lat": 48.2076729,
+      "lon": 16.3134235,
+      "x": 399,
+      "y": 694
+    },
+    {
+      "id": "piaristengasse",
+      "name": "Piaristengasse",
+      "lat": 48.2066312,
+      "lon": 16.3513234,
+      "x": 621,
+      "y": 702
+    },
+    {
+      "id": "pilgramgasse",
+      "name": "Pilgramgasse",
+      "lat": 48.192607,
+      "lon": 16.3542699,
+      "x": 638,
+      "y": 800
+    },
+    {
+      "id": "plosslgasse",
+      "name": "Plößlgasse",
+      "lat": 48.1945394,
+      "lon": 16.3771321,
+      "x": 772,
+      "y": 787
+    },
+    {
+      "id": "possingergasse",
+      "name": "Possingergasse",
+      "lat": 48.208954,
+      "lon": 16.3187326,
+      "x": 430,
+      "y": 685
+    },
+    {
+      "id": "prater-hauptallee",
+      "name": "Prater, Hauptallee",
+      "lat": 48.20896,
+      "lon": 16.4056401,
+      "x": 939,
+      "y": 685
+    },
+    {
+      "id": "praterstern",
+      "name": "Praterstern",
+      "lat": 48.2188258,
+      "lon": 16.3926055,
+      "x": 863,
+      "y": 616
+    },
+    {
+      "id": "quartier-belvedere",
+      "name": "Quartier Belvedere",
+      "lat": 48.1876959,
+      "lon": 16.38075,
+      "x": 793,
+      "y": 835
+    },
+    {
+      "id": "quellenplatz",
+      "name": "Quellenplatz",
+      "lat": 48.1756447,
+      "lon": 16.3735073,
+      "x": 751,
+      "y": 919
+    },
+    {
+      "id": "radetzkyplatz",
+      "name": "Radetzkyplatz",
+      "lat": 48.2109016,
+      "lon": 16.3902145,
+      "x": 849,
+      "y": 672
+    },
+    {
+      "id": "rainergasse",
+      "name": "Rainergasse",
+      "lat": 48.1882784,
+      "lon": 16.3684049,
+      "x": 721,
+      "y": 831
+    },
+    {
+      "id": "rampengasse",
+      "name": "Rampengasse",
+      "lat": 48.2407923,
+      "lon": 16.3604503,
+      "x": 674,
+      "y": 462
+    },
+    {
+      "id": "rankgasse",
+      "name": "Rankgasse",
+      "lat": 48.2107529,
+      "lon": 16.3058283,
+      "x": 354,
+      "y": 673
+    },
+    {
+      "id": "rathaus",
+      "name": "Rathaus",
+      "lat": 48.2097786,
+      "lon": 16.3550694,
+      "x": 643,
+      "y": 680
+    },
+    {
+      "id": "rathausplatz-burgtheater",
+      "name": "Rathausplatz/Burgtheater",
+      "lat": 48.2105015,
+      "lon": 16.3606525,
+      "x": 675,
+      "y": 674
+    },
+    {
+      "id": "raxstrasse",
+      "name": "Raxstraße",
+      "lat": 48.1660202,
+      "lon": 16.3647982,
+      "x": 700,
+      "y": 987
+    },
+    {
+      "id": "rebhanngasse",
+      "name": "Rebhanngasse",
+      "lat": 48.2279876,
+      "lon": 16.3880915,
+      "x": 836,
+      "y": 552
+    },
+    {
+      "id": "reichmanngasse",
+      "name": "Reichmanngasse",
+      "lat": 48.2068976,
+      "lon": 16.2845472,
+      "x": 229,
+      "y": 700
+    },
+    {
+      "id": "reinprechtsdorfer-brucke",
+      "name": "Reinprechtsdorfer Brücke",
+      "lat": 48.18847,
+      "lon": 16.3517007,
+      "x": 623,
+      "y": 829
+    },
+    {
+      "id": "reinprechtsdorfer-strasse-arbeitergasse",
+      "name": "Reinprechtsdorfer Straße/Arbeitergasse",
+      "lat": 48.1867152,
+      "lon": 16.3529314,
+      "x": 630,
+      "y": 842
+    },
+    {
+      "id": "rennbahnweg",
+      "name": "Rennbahnweg",
+      "lat": 48.2575743,
+      "lon": 16.4496171,
+      "x": 1197,
+      "y": 344
+    },
+    {
+      "id": "rennweg",
+      "name": "Rennweg",
+      "lat": 48.1948957,
+      "lon": 16.3864925,
+      "x": 827,
+      "y": 784
+    },
+    {
+      "id": "resselgasse",
+      "name": "Resselgasse",
+      "lat": 48.1987819,
+      "lon": 16.3677267,
+      "x": 717,
+      "y": 757
+    },
+    {
+      "id": "rettichgasse",
+      "name": "Rettichgasse",
+      "lat": 48.20159,
+      "lon": 16.2622151,
+      "x": 98,
+      "y": 737
+    },
+    {
+      "id": "reumannplatz",
+      "name": "Reumannplatz",
+      "lat": 48.1751993,
+      "lon": 16.3780268,
+      "x": 777,
+      "y": 923
+    },
+    {
+      "id": "rochusgasse",
+      "name": "Rochusgasse",
+      "lat": 48.2022606,
+      "lon": 16.3919542,
+      "x": 859,
+      "y": 732
+    },
+    {
+      "id": "romergasse",
+      "name": "Römergasse",
+      "lat": 48.2169065,
+      "lon": 16.3135897,
+      "x": 400,
+      "y": 629
+    },
+    {
+      "id": "rosensteingasse",
+      "name": "Rosensteingasse",
+      "lat": 48.219136,
+      "lon": 16.3271588,
+      "x": 479,
+      "y": 614
+    },
+    {
+      "id": "rossauer-lande",
+      "name": "Roßauer Lände",
+      "lat": 48.2223411,
+      "lon": 16.367565,
+      "x": 716,
+      "y": 591
+    },
+    {
+      "id": "salztorbrucke",
+      "name": "Salztorbrücke",
+      "lat": 48.2139435,
+      "lon": 16.3740014,
+      "x": 754,
+      "y": 650
+    },
+    {
+      "id": "sandleitengasse",
+      "name": "Sandleitengasse",
+      "lat": 48.2179719,
+      "lon": 16.3077956,
+      "x": 366,
+      "y": 622
+    },
+    {
+      "id": "satzberggasse",
+      "name": "Satzberggasse",
+      "lat": 48.2017996,
+      "lon": 16.258788,
+      "x": 78,
+      "y": 736
+    },
+    {
+      "id": "scalagasse",
+      "name": "Scalagasse",
+      "lat": 48.1822532,
+      "lon": 16.357405,
+      "x": 656,
+      "y": 873
+    },
+    {
+      "id": "scheugasse",
+      "name": "Scheugasse",
+      "lat": 48.1779764,
+      "lon": 16.3786233,
+      "x": 781,
+      "y": 903
+    },
+    {
+      "id": "schlachthausgasse",
+      "name": "Schlachthausgasse",
+      "lat": 48.1944346,
+      "lon": 16.4068708,
+      "x": 946,
+      "y": 787
+    },
+    {
+      "id": "schlickgasse",
+      "name": "Schlickgasse",
+      "lat": 48.2186183,
+      "lon": 16.364358,
+      "x": 697,
+      "y": 617
+    },
+    {
+      "id": "schloss-belvedere",
+      "name": "Schloss Belvedere",
+      "lat": 48.1919195,
+      "lon": 16.3791622,
+      "x": 784,
+      "y": 805
+    },
+    {
+      "id": "schmelz-gablenzgasse",
+      "name": "Schmelz, Gablenzgasse",
+      "lat": 48.206721,
+      "lon": 16.3156513,
+      "x": 412,
+      "y": 701
+    },
+    {
+      "id": "schonbrunn",
+      "name": "Schönbrunn",
+      "lat": 48.1860534,
+      "lon": 16.3189527,
+      "x": 431,
+      "y": 846
+    },
+    {
+      "id": "schottenring",
+      "name": "Schottenring",
+      "lat": 48.216896,
+      "lon": 16.3715647,
+      "x": 739,
+      "y": 630
+    },
+    {
+      "id": "schottentor",
+      "name": "Schottentor",
+      "lat": 48.2143092,
+      "lon": 16.3623368,
+      "x": 685,
+      "y": 648
+    },
+    {
+      "id": "schrankenberggasse",
+      "name": "Schrankenberggasse",
+      "lat": 48.1739179,
+      "lon": 16.3890617,
+      "x": 842,
+      "y": 932
+    },
+    {
+      "id": "schrekergasse",
+      "name": "Schrekergasse",
+      "lat": 48.2064037,
+      "lon": 16.2886121,
+      "x": 253,
+      "y": 703
+    },
+    {
+      "id": "schwarzenbergplatz",
+      "name": "Schwarzenbergplatz",
+      "lat": 48.2013146,
+      "lon": 16.3747605,
+      "x": 758,
+      "y": 739
+    },
+    {
+      "id": "schwedenplatz",
+      "name": "Schwedenplatz",
+      "lat": 48.2117975,
+      "lon": 16.3779983,
+      "x": 777,
+      "y": 665
+    },
+    {
+      "id": "schweglerstrasse",
+      "name": "Schweglerstraße",
+      "lat": 48.1980903,
+      "lon": 16.328769,
+      "x": 488,
+      "y": 762
+    },
+    {
+      "id": "sechskrugelgasse",
+      "name": "Sechskrügelgasse",
+      "lat": 48.2019463,
+      "lon": 16.3873144,
+      "x": 832,
+      "y": 735
+    },
+    {
+      "id": "seckendorfstrasse",
+      "name": "Seckendorfstraße",
+      "lat": 48.1968718,
+      "lon": 16.2870804,
+      "x": 244,
+      "y": 770
+    },
+    {
+      "id": "seegasse",
+      "name": "Seegasse",
+      "lat": 48.2229755,
+      "lon": 16.3613756,
+      "x": 680,
+      "y": 587
+    },
+    {
+      "id": "seestadt",
+      "name": "Seestadt",
+      "lat": 48.2258302,
+      "lon": 16.5082052,
+      "x": 1540,
+      "y": 567
+    },
+    {
+      "id": "shuttleworthstrasse",
+      "name": "Shuttleworthstraße",
+      "lat": 48.2715197,
+      "lon": 16.4058422,
+      "x": 940,
+      "y": 246
+    },
+    {
+      "id": "sickenberggasse",
+      "name": "Sickenberggasse",
+      "lat": 48.2580199,
+      "lon": 16.3670305,
+      "x": 713,
+      "y": 340
+    },
+    {
+      "id": "siebenbrunnengasse",
+      "name": "Siebenbrunnengasse",
+      "lat": 48.1872483,
+      "lon": 16.3579889,
+      "x": 660,
+      "y": 838
+    },
+    {
+      "id": "siebenhirten",
+      "name": "Siebenhirten",
+      "lat": 48.1300419,
+      "lon": 16.3097225,
+      "x": 377,
+      "y": 1240
+    },
+    {
+      "id": "siebensterngasse",
+      "name": "Siebensterngasse",
+      "lat": 48.2017233,
+      "lon": 16.3490215,
+      "x": 607,
+      "y": 736
+    },
+    {
+      "id": "siedlung-sudost",
+      "name": "Siedlung Südost",
+      "lat": 48.1564163,
+      "lon": 16.3945998,
+      "x": 874,
+      "y": 1055
+    },
+    {
+      "id": "simmering",
+      "name": "Simmering",
+      "lat": 48.1696434,
+      "lon": 16.4207228,
+      "x": 1027,
+      "y": 962
+    },
+    {
+      "id": "skodagasse",
+      "name": "Skodagasse",
+      "lat": 48.2150998,
+      "lon": 16.3487483,
+      "x": 606,
+      "y": 642
+    },
+    {
+      "id": "sonnleithnergasse",
+      "name": "Sonnleithnergasse",
+      "lat": 48.1789887,
+      "lon": 16.3630105,
+      "x": 689,
+      "y": 896
+    },
+    {
+      "id": "spengergasse",
+      "name": "Spengergasse",
+      "lat": 48.1846789,
+      "lon": 16.3577823,
+      "x": 659,
+      "y": 856
+    },
+    {
+      "id": "spittelau",
+      "name": "Spittelau",
+      "lat": 48.2354923,
+      "lon": 16.3578198,
+      "x": 659,
+      "y": 499
+    },
+    {
+      "id": "st-marx",
+      "name": "St. Marx",
+      "lat": 48.1883293,
+      "lon": 16.3993204,
+      "x": 902,
+      "y": 830
+    },
+    {
+      "id": "st-ulrichs-platz",
+      "name": "St.-Ulrichs-Platz",
+      "lat": 48.2040987,
+      "lon": 16.3537579,
+      "x": 635,
+      "y": 719
+    },
+    {
+      "id": "stadion",
+      "name": "Stadion",
+      "lat": 48.2110277,
+      "lon": 16.4212501,
+      "x": 1030,
+      "y": 671
+    },
+    {
+      "id": "stadionbad",
+      "name": "Stadionbad",
+      "lat": 48.2043861,
+      "lon": 16.4164917,
+      "x": 1003,
+      "y": 717
+    },
+    {
+      "id": "stadlau",
+      "name": "Stadlau",
+      "lat": 48.2197076,
+      "lon": 16.449406,
+      "x": 1195,
+      "y": 610
+    },
+    {
+      "id": "stadtpark",
+      "name": "Stadtpark",
+      "lat": 48.2028534,
+      "lon": 16.3796743,
+      "x": 787,
+      "y": 728
+    },
+    {
+      "id": "stammersdorf",
+      "name": "Stammersdorf",
+      "lat": 48.29792,
+      "lon": 16.4205027,
+      "x": 1026,
+      "y": 60
+    },
+    {
+      "id": "stefan-fadinger-platz",
+      "name": "Stefan-Fadinger-Platz",
+      "lat": 48.1681172,
+      "lon": 16.35438,
+      "x": 639,
+      "y": 972
+    },
+    {
+      "id": "stephansplatz",
+      "name": "Stephansplatz",
+      "lat": 48.2082356,
+      "lon": 16.3717624,
+      "x": 740,
+      "y": 690
+    },
+    {
+      "id": "stiftgasse",
+      "name": "Stiftgasse",
+      "lat": 48.2024043,
+      "lon": 16.3545215,
+      "x": 639,
+      "y": 731
+    },
+    {
+      "id": "strozzigasse",
+      "name": "Strozzigasse",
+      "lat": 48.2066611,
+      "lon": 16.3492663,
+      "x": 609,
+      "y": 701
+    },
+    {
+      "id": "stubentor",
+      "name": "Stubentor",
+      "lat": 48.2069185,
+      "lon": 16.3797192,
+      "x": 787,
+      "y": 700
+    },
+    {
+      "id": "sudtiroler-pl-hbf",
+      "name": "Südtiroler Pl. - Hbf.",
+      "lat": 48.1871165,
+      "lon": 16.373449,
+      "x": 750,
+      "y": 839
+    },
+    {
+      "id": "swatoschgasse",
+      "name": "Swatoschgasse",
+      "lat": 48.1658689,
+      "lon": 16.4106437,
+      "x": 968,
+      "y": 988
+    },
+    {
+      "id": "taborstrasse",
+      "name": "Taborstraße",
+      "lat": 48.2191226,
+      "lon": 16.381024,
+      "x": 795,
+      "y": 614
+    },
+    {
+      "id": "taubstummengasse",
+      "name": "Taubstummengasse",
+      "lat": 48.1938029,
+      "lon": 16.3703632,
+      "x": 732,
+      "y": 792
+    },
+    {
+      "id": "thaliastrasse",
+      "name": "Thaliastraße",
+      "lat": 48.2077806,
+      "lon": 16.3379925,
+      "x": 543,
+      "y": 694
+    },
+    {
+      "id": "thaliastrasse-koppstrasse",
+      "name": "Thaliastraße/Koppstraße",
+      "lat": 48.206254,
+      "lon": 16.3369324,
+      "x": 536,
+      "y": 704
+    },
+    {
+      "id": "theater-in-der-josefstadt",
+      "name": "Theater in der Josefstadt",
+      "lat": 48.2092713,
+      "lon": 16.3506856,
+      "x": 617,
+      "y": 683
+    },
+    {
+      "id": "traisengasse",
+      "name": "Traisengasse",
+      "lat": 48.2338399,
+      "lon": 16.3830519,
+      "x": 807,
+      "y": 510
+    },
+    {
+      "id": "troststrasse",
+      "name": "Troststraße",
+      "lat": 48.1689904,
+      "lon": 16.3802896,
+      "x": 790,
+      "y": 966
+    },
+    {
+      "id": "troststrasse-neilreichgasse",
+      "name": "Troststraße/Neilreichgasse",
+      "lat": 48.1698471,
+      "lon": 16.3646185,
+      "x": 699,
+      "y": 960
+    },
+    {
+      "id": "tscherttegasse",
+      "name": "Tscherttegasse",
+      "lat": 48.1647454,
+      "lon": 16.3275495,
+      "x": 481,
+      "y": 996
+    },
+    {
+      "id": "ungargasse-neulinggasse",
+      "name": "Ungargasse/Neulinggasse",
+      "lat": 48.1990663,
+      "lon": 16.3873683,
+      "x": 832,
+      "y": 755
+    },
+    {
+      "id": "unter-st-veit",
+      "name": "Unter St. Veit",
+      "lat": 48.191129,
+      "lon": 16.2859935,
+      "x": 238,
+      "y": 811
+    },
+    {
+      "id": "urban-loritz-platz",
+      "name": "Urban-Loritz-Platz",
+      "lat": 48.2012293,
+      "lon": 16.3375186,
+      "x": 540,
+      "y": 740
+    },
+    {
+      "id": "van-swieten-kaserne",
+      "name": "Van-Swieten-Kaserne",
+      "lat": 48.2932465,
+      "lon": 16.4181312,
+      "x": 1012,
+      "y": 93
+    },
+    {
+      "id": "viehmarktgasse",
+      "name": "Viehmarktgasse",
+      "lat": 48.1907847,
+      "lon": 16.4015707,
+      "x": 915,
+      "y": 813
+    },
+    {
+      "id": "vogelweidplatz-stadthalle",
+      "name": "Vogelweidplatz/Stadthalle",
+      "lat": 48.2042783,
+      "lon": 16.3317042,
+      "x": 506,
+      "y": 718
+    },
+    {
+      "id": "volkstheater",
+      "name": "Volkstheater",
+      "lat": 48.2052952,
+      "lon": 16.3578953,
+      "x": 659,
+      "y": 711
+    },
+    {
+      "id": "vorgartenstrasse",
+      "name": "Vorgartenstraße",
+      "lat": 48.2236607,
+      "lon": 16.4011036,
+      "x": 912,
+      "y": 582
+    },
+    {
+      "id": "wahringer-str-volksoper",
+      "name": "Währinger Str.-Volksoper",
+      "lat": 48.2255908,
+      "lon": 16.3495044,
+      "x": 610,
+      "y": 568
+    },
+    {
+      "id": "waidackergasse",
+      "name": "Waidäckergasse",
+      "lat": 48.2073705,
+      "lon": 16.2943029,
+      "x": 287,
+      "y": 696
+    },
+    {
+      "id": "waidhausenstrasse",
+      "name": "Waidhausenstraße",
+      "lat": 48.1975903,
+      "lon": 16.2807204,
+      "x": 207,
+      "y": 765
+    },
+    {
+      "id": "wasserwiese",
+      "name": "Wasserwiese",
+      "lat": 48.1985603,
+      "lon": 16.4135542,
+      "x": 985,
+      "y": 758
+    },
+    {
+      "id": "weihburggasse",
+      "name": "Weihburggasse",
+      "lat": 48.2044549,
+      "lon": 16.3776935,
+      "x": 775,
+      "y": 717
+    },
+    {
+      "id": "westbahnhof",
+      "name": "Westbahnhof",
+      "lat": 48.1965235,
+      "lon": 16.3388444,
+      "x": 548,
+      "y": 773
+    },
+    {
+      "id": "westbahnstrasse-zieglergasse",
+      "name": "Westbahnstraße/Zieglergasse",
+      "lat": 48.2018295,
+      "lon": 16.3450038,
+      "x": 584,
+      "y": 735
+    },
+    {
+      "id": "wexstrasse",
+      "name": "Wexstraße",
+      "lat": 48.235982,
+      "lon": 16.3658537,
+      "x": 706,
+      "y": 495
+    },
+    {
+      "id": "wielandplatz",
+      "name": "Wielandplatz",
+      "lat": 48.1775451,
+      "lon": 16.380348,
+      "x": 791,
+      "y": 906
+    },
+    {
+      "id": "wildgansplatz",
+      "name": "Wildgansplatz",
+      "lat": 48.1860714,
+      "lon": 16.3966165,
+      "x": 886,
+      "y": 846
+    },
+    {
+      "id": "wilhelminenstrasse",
+      "name": "Wilhelminenstraße",
+      "lat": 48.2162002,
+      "lon": 16.3194018,
+      "x": 434,
+      "y": 634
+    },
+    {
+      "id": "windtenstrasse",
+      "name": "Windtenstraße",
+      "lat": 48.1704882,
+      "lon": 16.3517187,
+      "x": 623,
+      "y": 956
+    },
+    {
+      "id": "wittelsbachstrasse",
+      "name": "Wittelsbachstraße",
+      "lat": 48.2061522,
+      "lon": 16.3993833,
+      "x": 902,
+      "y": 705
+    },
+    {
+      "id": "ziegelofengasse",
+      "name": "Ziegelofengasse",
+      "lat": 48.192177,
+      "lon": 16.3604863,
+      "x": 674,
+      "y": 803
+    },
+    {
+      "id": "zieglergasse",
+      "name": "Zieglergasse",
+      "lat": 48.1971173,
+      "lon": 16.3462749,
+      "x": 591,
+      "y": 769
+    },
+    {
+      "id": "zippererstrasse",
+      "name": "Zippererstraße",
+      "lat": 48.1802586,
+      "lon": 16.4119508,
+      "x": 976,
+      "y": 887
+    }
+  ],
+  "lines": [
+    {
+      "id": "U1",
+      "name": "U1",
+      "mode": "metro",
+      "pool": "metro",
+      "color": "#E3000F",
+      "stops": [
+        "oberlaa",
+        "neulaa",
+        "alaudagasse",
+        "altes-landgut",
+        "troststrasse",
+        "reumannplatz",
+        "keplerplatz",
+        "sudtiroler-pl-hbf",
+        "taubstummengasse",
+        "karlsplatz",
+        "stephansplatz",
+        "schwedenplatz",
+        "nestroyplatz",
+        "praterstern",
+        "vorgartenstrasse",
+        "donauinsel",
+        "kaisermuhlen-vic",
+        "alte-donau",
+        "kagran",
+        "kagraner-platz",
+        "rennbahnweg",
+        "aderklaaer-strasse",
+        "grossfeldsiedlung",
+        "leopoldau"
+      ],
+      "returnStops": [
+        "leopoldau",
+        "grossfeldsiedlung",
+        "aderklaaer-strasse",
+        "rennbahnweg",
+        "kagraner-platz",
+        "kagran",
+        "alte-donau",
+        "kaisermuhlen-vic",
+        "donauinsel",
+        "vorgartenstrasse",
+        "praterstern",
+        "nestroyplatz",
+        "schwedenplatz",
+        "stephansplatz",
+        "karlsplatz",
+        "taubstummengasse",
+        "sudtiroler-pl-hbf",
+        "keplerplatz",
+        "reumannplatz",
+        "troststrasse",
+        "altes-landgut",
+        "alaudagasse",
+        "neulaa",
+        "oberlaa"
+      ],
+      "headway": 180,
+      "capacity": 700
+    },
+    {
+      "id": "U2",
+      "name": "U2",
+      "mode": "metro",
+      "pool": "metro",
+      "color": "#A862A4",
+      "stops": [
+        "seestadt",
+        "aspern-nord",
+        "hausfeldstrasse",
+        "lina-loos-platz",
+        "aspernstrasse",
+        "donauspital",
+        "hardeggasse",
+        "stadlau",
+        "donaustadtbrucke",
+        "donaumarina",
+        "stadion",
+        "krieau",
+        "messe-prater",
+        "praterstern",
+        "taborstrasse",
+        "schottenring",
+        "schottentor",
+        "rathaus",
+        "volkstheater",
+        "museumsquartier",
+        "karlsplatz"
+      ],
+      "returnStops": [
+        "karlsplatz",
+        "museumsquartier",
+        "volkstheater",
+        "rathaus",
+        "schottentor",
+        "schottenring",
+        "taborstrasse",
+        "praterstern",
+        "messe-prater",
+        "krieau",
+        "stadion",
+        "donaumarina",
+        "donaustadtbrucke",
+        "stadlau",
+        "hardeggasse",
+        "donauspital",
+        "aspernstrasse",
+        "lina-loos-platz",
+        "hausfeldstrasse",
+        "aspern-nord",
+        "seestadt"
+      ],
+      "headway": 180,
+      "capacity": 700
+    },
+    {
+      "id": "U3",
+      "name": "U3",
+      "mode": "metro",
+      "pool": "metro",
+      "color": "#EF7C00",
+      "stops": [
+        "ottakring",
+        "kendlerstrasse",
+        "hutteldorfer-strasse",
+        "johnstrasse",
+        "schweglerstrasse",
+        "westbahnhof",
+        "zieglergasse",
+        "neubaugasse",
+        "volkstheater",
+        "herrengasse",
+        "stephansplatz",
+        "stubentor",
+        "landstrasse",
+        "rochusgasse",
+        "kardinal-nagl-platz",
+        "schlachthausgasse",
+        "erdberg",
+        "gasometer",
+        "zippererstrasse",
+        "enkplatz",
+        "simmering"
+      ],
+      "returnStops": [
+        "simmering",
+        "enkplatz",
+        "zippererstrasse",
+        "gasometer",
+        "erdberg",
+        "schlachthausgasse",
+        "kardinal-nagl-platz",
+        "rochusgasse",
+        "landstrasse",
+        "stubentor",
+        "stephansplatz",
+        "herrengasse",
+        "volkstheater",
+        "neubaugasse",
+        "zieglergasse",
+        "westbahnhof",
+        "schweglerstrasse",
+        "johnstrasse",
+        "hutteldorfer-strasse",
+        "kendlerstrasse",
+        "ottakring"
+      ],
+      "headway": 180,
+      "capacity": 700
+    },
+    {
+      "id": "U4",
+      "name": "U4",
+      "mode": "metro",
+      "pool": "metro",
+      "color": "#319F49",
+      "stops": [
+        "hutteldorf",
+        "ober-st-veit",
+        "unter-st-veit",
+        "braunschweiggasse",
+        "hietzing",
+        "schonbrunn",
+        "meidling-hauptstrasse",
+        "langenfeldgasse",
+        "margaretengurtel",
+        "pilgramgasse",
+        "kettenbruckengasse",
+        "karlsplatz",
+        "stadtpark",
+        "landstrasse",
+        "schwedenplatz",
+        "schottenring",
+        "rossauer-lande",
+        "friedensbrucke",
+        "spittelau",
+        "heiligenstadt"
+      ],
+      "returnStops": [
+        "heiligenstadt",
+        "spittelau",
+        "friedensbrucke",
+        "rossauer-lande",
+        "schottenring",
+        "schwedenplatz",
+        "landstrasse",
+        "stadtpark",
+        "karlsplatz",
+        "kettenbruckengasse",
+        "pilgramgasse",
+        "margaretengurtel",
+        "langenfeldgasse",
+        "meidling-hauptstrasse",
+        "schonbrunn",
+        "hietzing",
+        "braunschweiggasse",
+        "unter-st-veit",
+        "ober-st-veit",
+        "hutteldorf"
+      ],
+      "headway": 180,
+      "capacity": 700
+    },
+    {
+      "id": "U6",
+      "name": "U6",
+      "mode": "metro",
+      "pool": "u6",
+      "color": "#9D6830",
+      "stops": [
+        "siebenhirten",
+        "perfektastrasse",
+        "erlaaer-strasse",
+        "alterlaa",
+        "am-schopfwerk",
+        "tscherttegasse",
+        "meidling",
+        "niederhofstrasse",
+        "langenfeldgasse",
+        "gumpendorfer-strasse",
+        "westbahnhof",
+        "burggasse-stadthalle",
+        "thaliastrasse",
+        "josefstadter-strasse",
+        "alser-strasse",
+        "michelbeuern-akh",
+        "wahringer-str-volksoper",
+        "nussdorfer-strasse",
+        "spittelau",
+        "jagerstrasse",
+        "dresdner-strasse",
+        "handelskai",
+        "neue-donau",
+        "floridsdorf"
+      ],
+      "returnStops": [
+        "floridsdorf",
+        "neue-donau",
+        "handelskai",
+        "dresdner-strasse",
+        "jagerstrasse",
+        "spittelau",
+        "nussdorfer-strasse",
+        "wahringer-str-volksoper",
+        "michelbeuern-akh",
+        "alser-strasse",
+        "josefstadter-strasse",
+        "thaliastrasse",
+        "burggasse-stadthalle",
+        "westbahnhof",
+        "gumpendorfer-strasse",
+        "langenfeldgasse",
+        "niederhofstrasse",
+        "meidling",
+        "tscherttegasse",
+        "am-schopfwerk",
+        "alterlaa",
+        "erlaaer-strasse",
+        "perfektastrasse",
+        "siebenhirten"
+      ],
+      "headway": 180,
+      "capacity": 500
+    },
+    {
+      "id": "D",
+      "name": "D",
+      "mode": "tram",
+      "pool": "tram",
+      "color": "#C00808",
+      "stops": [
+        "absberggasse",
+        "hlawkagasse",
+        "alfred-adler-strasse",
+        "hauptbahnhof-ost",
+        "quartier-belvedere",
+        "schloss-belvedere",
+        "plosslgasse",
+        "gusshausstrasse",
+        "schwarzenbergplatz",
+        "oper-karlsplatz",
+        "burgring",
+        "parlament-volkstheater",
+        "parlament",
+        "rathausplatz-burgtheater",
+        "schottentor",
+        "borse",
+        "schlickgasse",
+        "bauernfeldplatz",
+        "seegasse",
+        "franz-josefs-bahnhof",
+        "althanstrasse",
+        "augasse",
+        "liechtenwerder-platz",
+        "spittelau",
+        "rampengasse",
+        "gunoldstrasse",
+        "heiligenstadt-12-februar-platz",
+        "halteraugasse",
+        "grinzinger-strasse",
+        "sickenberggasse",
+        "nussdorf",
+        "nussdorf-beethovengang"
+      ],
+      "returnStops": [
+        "nussdorf-beethovengang",
+        "nussdorf",
+        "sickenberggasse",
+        "grinzinger-strasse",
+        "halteraugasse",
+        "heiligenstadt-12-februar-platz",
+        "gunoldstrasse",
+        "rampengasse",
+        "spittelau",
+        "liechtenwerder-platz",
+        "augasse",
+        "althanstrasse",
+        "franz-josefs-bahnhof",
+        "seegasse",
+        "bauernfeldplatz",
+        "schlickgasse",
+        "borse",
+        "schottentor",
+        "rathausplatz-burgtheater",
+        "parlament",
+        "parlament-volkstheater",
+        "burgring",
+        "oper-karlsplatz",
+        "schwarzenbergplatz",
+        "gusshausstrasse",
+        "plosslgasse",
+        "schloss-belvedere",
+        "quartier-belvedere",
+        "hauptbahnhof-ost",
+        "alfred-adler-strasse",
+        "hlawkagasse",
+        "absberggasse"
+      ],
+      "headway": 300,
+      "capacity": 180
+    },
+    {
+      "id": "O",
+      "name": "O",
+      "mode": "tram",
+      "pool": "tram",
+      "color": "#C00808",
+      "stops": [
+        "raxstrasse",
+        "troststrasse-neilreichgasse",
+        "laxenburger-strasse-troststrasse",
+        "arthaberplatz",
+        "quellenplatz",
+        "laxenburger-strasse-gudrunstrasse",
+        "columbusplatz",
+        "hauptbahnhof",
+        "quartier-belvedere",
+        "fasangasse",
+        "kolblgasse",
+        "rennweg",
+        "ungargasse-neulinggasse",
+        "sechskrugelgasse",
+        "landstrasse",
+        "marxergasse",
+        "hintere-zollamtsstrasse",
+        "radetzkyplatz",
+        "franzensbrucke",
+        "praterstern",
+        "nordbahnstrasse",
+        "krakauer-strasse",
+        "bruno-marek-allee"
+      ],
+      "returnStops": [
+        "bruno-marek-allee",
+        "krakauer-strasse",
+        "nordbahnstrasse",
+        "muhlfeldgasse",
+        "praterstern",
+        "franzensbrucke",
+        "radetzkyplatz",
+        "hintere-zollamtsstrasse",
+        "marxergasse",
+        "landstrasse",
+        "sechskrugelgasse",
+        "ungargasse-neulinggasse",
+        "rennweg",
+        "kolblgasse",
+        "fasangasse",
+        "quartier-belvedere",
+        "hauptbahnhof",
+        "columbusplatz",
+        "laxenburger-strasse-gudrunstrasse",
+        "quellenplatz",
+        "arthaberplatz",
+        "laxenburger-strasse-troststrasse",
+        "troststrasse-neilreichgasse",
+        "raxstrasse"
+      ],
+      "headway": 300,
+      "capacity": 180
+    },
+    {
+      "id": "1",
+      "name": "1",
+      "mode": "tram",
+      "pool": "tram",
+      "color": "#C00808",
+      "stops": [
+        "prater-hauptallee",
+        "wittelsbachstrasse",
+        "lowengasse",
+        "hetzgasse",
+        "radetzkyplatz",
+        "hintere-zollamtsstrasse",
+        "julius-raab-platz",
+        "schwedenplatz",
+        "salztorbrucke",
+        "schottenring",
+        "borse",
+        "schottentor",
+        "rathausplatz-burgtheater",
+        "parlament",
+        "parlament-volkstheater",
+        "burgring",
+        "oper-karlsplatz",
+        "resselgasse",
+        "paulanergasse",
+        "mayerhofgasse",
+        "johann-strauss-gasse",
+        "laurenzgasse",
+        "kliebergasse",
+        "matzleinsdorfer-platz",
+        "knollgasse",
+        "davidgasse",
+        "knollgasse-troststrasse",
+        "windtenstrasse",
+        "stefan-fadinger-platz"
+      ],
+      "returnStops": [
+        "stefan-fadinger-platz",
+        "windtenstrasse",
+        "knollgasse-troststrasse",
+        "davidgasse",
+        "knollgasse",
+        "matzleinsdorfer-platz",
+        "kliebergasse",
+        "laurenzgasse",
+        "johann-strauss-gasse",
+        "mayerhofgasse",
+        "paulanergasse",
+        "resselgasse",
+        "karlsplatz",
+        "oper-karlsplatz",
+        "burgring",
+        "parlament-volkstheater",
+        "parlament",
+        "rathausplatz-burgtheater",
+        "schottentor",
+        "borse",
+        "schottenring",
+        "salztorbrucke",
+        "schwedenplatz",
+        "julius-raab-platz",
+        "hintere-zollamtsstrasse",
+        "radetzkyplatz",
+        "hetzgasse",
+        "lowengasse",
+        "wittelsbachstrasse",
+        "prater-hauptallee"
+      ],
+      "headway": 300,
+      "capacity": 180
+    },
+    {
+      "id": "2",
+      "name": "2",
+      "mode": "tram",
+      "pool": "tram",
+      "color": "#C00808",
+      "stops": [
+        "dornbach",
+        "liebknechtgasse",
+        "sandleitengasse",
+        "romergasse",
+        "wilhelminenstrasse",
+        "mayssengasse",
+        "johann-nepomuk-berger-platz",
+        "haberlgasse",
+        "brunnenmarkt",
+        "josefstadter-strasse",
+        "albertgasse",
+        "lederergasse",
+        "rathaus",
+        "parlament-volkstheater",
+        "burgring",
+        "oper-karlsplatz",
+        "schwarzenbergplatz",
+        "weihburggasse",
+        "stubentor",
+        "julius-raab-platz",
+        "schwedenplatz",
+        "gredlerstrasse",
+        "karmeliterplatz",
+        "taborstrasse",
+        "heinestrasse",
+        "am-tabor",
+        "rebhanngasse",
+        "innstrasse",
+        "traisengasse",
+        "dresdner-strasse",
+        "hochstadtplatz",
+        "friedrich-engels-platz"
+      ],
+      "returnStops": [
+        "friedrich-engels-platz",
+        "hochstadtplatz",
+        "dresdner-strasse",
+        "traisengasse",
+        "innstrasse",
+        "rebhanngasse",
+        "am-tabor",
+        "heinestrasse",
+        "taborstrasse",
+        "karmeliterplatz",
+        "marienbrucke",
+        "schwedenplatz",
+        "julius-raab-platz",
+        "stubentor",
+        "weihburggasse",
+        "schwarzenbergplatz",
+        "oper-karlsplatz",
+        "burgring",
+        "parlament-volkstheater",
+        "parlament",
+        "rathaus",
+        "lederergasse",
+        "albertgasse",
+        "blindengasse",
+        "josefstadter-strasse",
+        "brunnenmarkt",
+        "haberlgasse",
+        "johann-nepomuk-berger-platz",
+        "mayssengasse",
+        "wilhelminenstrasse",
+        "romergasse",
+        "sandleitengasse",
+        "liebknechtgasse",
+        "dornbach"
+      ],
+      "headway": 300,
+      "capacity": 180
+    },
+    {
+      "id": "6",
+      "name": "6",
+      "mode": "tram",
+      "pool": "tram",
+      "color": "#C00808",
+      "stops": [
+        "burggasse-stadthalle",
+        "urban-loritz-platz",
+        "westbahnhof",
+        "mariahilfer-gurtel",
+        "gumpendorfer-strasse",
+        "margaretengurtel",
+        "arbeitergasse-gurtel",
+        "eichenstrasse",
+        "matzleinsdorfer-platz",
+        "knollgasse",
+        "bernhardtstalgasse",
+        "neilreichgasse",
+        "quellenplatz",
+        "reumannplatz",
+        "gellertplatz",
+        "schrankenberggasse",
+        "absberggasse",
+        "geiereckstrasse"
+      ],
+      "returnStops": [
+        "geiereckstrasse",
+        "absberggasse",
+        "schrankenberggasse",
+        "gellertplatz",
+        "reumannplatz",
+        "quellenplatz",
+        "neilreichgasse",
+        "bernhardtstalgasse",
+        "knollgasse",
+        "matzleinsdorfer-platz",
+        "eichenstrasse",
+        "arbeitergasse-gurtel",
+        "margaretengurtel",
+        "gumpendorfer-strasse",
+        "mariahilfer-gurtel",
+        "westbahnhof",
+        "urban-loritz-platz",
+        "burggasse-stadthalle"
+      ],
+      "headway": 300,
+      "capacity": 180
+    },
+    {
+      "id": "18",
+      "name": "18",
+      "mode": "tram",
+      "pool": "tram",
+      "color": "#C00808",
+      "stops": [
+        "burggasse-stadthalle",
+        "urban-loritz-platz",
+        "westbahnhof",
+        "mariahilfer-gurtel",
+        "gumpendorfer-strasse",
+        "margaretengurtel",
+        "arbeitergasse-gurtel",
+        "eichenstrasse",
+        "matzleinsdorfer-platz",
+        "kliebergasse",
+        "blechturmgasse",
+        "hauptbahnhof",
+        "quartier-belvedere",
+        "fasangasse",
+        "heinrich-drimmel-platz",
+        "wildgansplatz",
+        "st-marx",
+        "viehmarktgasse",
+        "baumgasse",
+        "schlachthausgasse",
+        "ludwig-koessler-platz",
+        "wasserwiese",
+        "stadionbad",
+        "ernst-happel-stadion",
+        "stadion"
+      ],
+      "returnStops": [
+        "stadion",
+        "dr-natterer-gasse",
+        "stadion",
+        "ernst-happel-stadion",
+        "stadionbad",
+        "wasserwiese",
+        "ludwig-koessler-platz",
+        "schlachthausgasse",
+        "baumgasse",
+        "viehmarktgasse",
+        "st-marx",
+        "wildgansplatz",
+        "heinrich-drimmel-platz",
+        "fasangasse",
+        "quartier-belvedere",
+        "hauptbahnhof",
+        "blechturmgasse",
+        "kliebergasse",
+        "matzleinsdorfer-platz",
+        "eichenstrasse",
+        "arbeitergasse-gurtel",
+        "margaretengurtel",
+        "gumpendorfer-strasse",
+        "mariahilfer-gurtel",
+        "westbahnhof",
+        "urban-loritz-platz",
+        "burggasse-stadthalle"
+      ],
+      "headway": 300,
+      "capacity": 180
+    },
+    {
+      "id": "31",
+      "name": "31",
+      "mode": "tram",
+      "pool": "tram",
+      "color": "#C00808",
+      "stops": [
+        "schottenring",
+        "obere-donaustrasse",
+        "obere-augartenstrasse",
+        "gaussplatz",
+        "klosterneuburger-strasse-wallensteinstrasse",
+        "gerhardusgasse",
+        "wexstrasse",
+        "jagerstrasse",
+        "hochstadtplatz",
+        "friedrich-engels-platz",
+        "floridsdorfer-brucke",
+        "hubertusdamm",
+        "matthaus-jiszda-strasse",
+        "floridsdorf",
+        "floridsdorfer-markt",
+        "bahnsteggasse",
+        "brunner-strasse",
+        "shuttleworthstrasse",
+        "grossjedlersdorf",
+        "carabelligasse",
+        "hanreitergasse",
+        "empergergasse",
+        "anton-schall-gasse",
+        "van-swieten-kaserne",
+        "stammersdorf"
+      ],
+      "returnStops": [
+        "stammersdorf",
+        "van-swieten-kaserne",
+        "anton-schall-gasse",
+        "empergergasse",
+        "hanreitergasse",
+        "carabelligasse",
+        "grossjedlersdorf",
+        "shuttleworthstrasse",
+        "brunner-strasse",
+        "bahnsteggasse",
+        "floridsdorfer-markt",
+        "floridsdorf",
+        "matthaus-jiszda-strasse",
+        "hubertusdamm",
+        "floridsdorfer-brucke",
+        "friedrich-engels-platz",
+        "hochstadtplatz",
+        "jagerstrasse",
+        "wexstrasse",
+        "gerhardusgasse",
+        "klosterneuburger-strasse-wallensteinstrasse",
+        "gaussplatz",
+        "obere-augartenstrasse",
+        "obere-donaustrasse",
+        "schottenring"
+      ],
+      "headway": 300,
+      "capacity": 180
+    },
+    {
+      "id": "43",
+      "name": "43",
+      "mode": "tram",
+      "pool": "tram",
+      "color": "#C00808",
+      "stops": [
+        "schottentor",
+        "landesgerichtsstrasse",
+        "lange-gasse",
+        "skodagasse",
+        "brunnlbadgasse",
+        "alser-strasse",
+        "palffygasse",
+        "elterleinplatz",
+        "rosensteingasse",
+        "hernals-wattgasse",
+        "hernals",
+        "dornbach",
+        "dornbacher-strasse",
+        "himmelmutterweg",
+        "neuwaldegg"
+      ],
+      "returnStops": [
+        "neuwaldegg",
+        "himmelmutterweg",
+        "dornbacher-strasse",
+        "dornbach",
+        "hernals",
+        "hernals-wattgasse",
+        "rosensteingasse",
+        "elterleinplatz",
+        "palffygasse",
+        "alser-strasse",
+        "brunnlbadgasse",
+        "skodagasse",
+        "lange-gasse",
+        "landesgerichtsstrasse",
+        "schottentor"
+      ],
+      "headway": 300,
+      "capacity": 180
+    },
+    {
+      "id": "49",
+      "name": "49",
+      "mode": "tram",
+      "pool": "tram",
+      "color": "#C00808",
+      "stops": [
+        "parlament-volkstheater",
+        "volkstheater",
+        "stiftgasse",
+        "kirchengasse",
+        "siebensterngasse",
+        "westbahnstrasse-zieglergasse",
+        "kaiserstrasse",
+        "urban-loritz-platz",
+        "beingasse",
+        "schweglerstrasse",
+        "huglgasse",
+        "johnstrasse",
+        "hutteldorfer-strasse",
+        "breitensee",
+        "leyserstrasse",
+        "lutzowgasse",
+        "seckendorfstrasse",
+        "waidhausenstrasse",
+        "hochsatzengasse",
+        "baumgarten",
+        "deutschordenstrasse",
+        "rettichgasse",
+        "hutteldorf-bujattigasse"
+      ],
+      "returnStops": [
+        "hutteldorf-bujattigasse",
+        "satzberggasse",
+        "rettichgasse",
+        "deutschordenstrasse",
+        "baumgarten",
+        "hochsatzengasse",
+        "waidhausenstrasse",
+        "seckendorfstrasse",
+        "lutzowgasse",
+        "leyserstrasse",
+        "breitensee",
+        "hutteldorfer-strasse",
+        "johnstrasse",
+        "huglgasse",
+        "schweglerstrasse",
+        "beingasse",
+        "urban-loritz-platz",
+        "kaiserstrasse",
+        "westbahnstrasse-zieglergasse",
+        "siebensterngasse",
+        "kirchengasse",
+        "stiftgasse",
+        "volkstheater",
+        "parlament-volkstheater"
+      ],
+      "headway": 300,
+      "capacity": 180
+    },
+    {
+      "id": "13A",
+      "name": "13A",
+      "mode": "bus",
+      "pool": "bus",
+      "color": "#0A295D",
+      "stops": [
+        "skodagasse",
+        "laudongasse",
+        "lederergasse",
+        "strozzigasse",
+        "burggasse-neubaugasse",
+        "siebensterngasse",
+        "neubaugasse",
+        "haus-des-meeres",
+        "esterhazygasse",
+        "pilgramgasse",
+        "margaretenplatz-schonbrunner-strasse",
+        "ziegelofengasse",
+        "leibenfrostgasse",
+        "johann-strauss-gasse",
+        "rainergasse",
+        "belvederegasse",
+        "kolschitzkygasse",
+        "hauptbahnhof"
+      ],
+      "returnStops": [
+        "hauptbahnhof",
+        "karl-popper-strasse",
+        "mommsengasse",
+        "argentinierstrasse",
+        "kolschitzkygasse",
+        "rainergasse",
+        "johann-strauss-gasse",
+        "leibenfrostgasse",
+        "ziegelofengasse",
+        "margaretenplatz-schonbrunner-strasse",
+        "pilgramgasse",
+        "esterhazygasse",
+        "neubaugasse",
+        "siebensterngasse",
+        "burggasse-neubaugasse",
+        "kellermanngasse",
+        "piaristengasse",
+        "theater-in-der-josefstadt",
+        "laudongasse",
+        "skodagasse"
+      ],
+      "headway": 420,
+      "capacity": 85
+    },
+    {
+      "id": "14A",
+      "name": "14A",
+      "mode": "bus",
+      "pool": "bus",
+      "color": "#0A295D",
+      "stops": [
+        "neubaugasse",
+        "haus-des-meeres",
+        "esterhazygasse",
+        "pilgramgasse",
+        "reinprechtsdorfer-brucke",
+        "reinprechtsdorfer-strasse-arbeitergasse",
+        "fendigasse",
+        "scalagasse",
+        "matzleinsdorfer-platz",
+        "evangelischer-friedhof",
+        "sonnleithnergasse",
+        "erlachplatz",
+        "laxenburger-strasse-gudrunstrasse",
+        "keplerplatz",
+        "wielandplatz",
+        "reumannplatz"
+      ],
+      "returnStops": [
+        "reumannplatz",
+        "scheugasse",
+        "keplerplatz",
+        "laxenburger-strasse-gudrunstrasse",
+        "erlachplatz",
+        "sonnleithnergasse",
+        "matzleinsdorfer-platz",
+        "spengergasse",
+        "siebenbrunnengasse",
+        "bacherplatz",
+        "bezirksamt-margareten",
+        "pilgramgasse",
+        "esterhazygasse",
+        "neubaugasse"
+      ],
+      "headway": 420,
+      "capacity": 85
+    },
+    {
+      "id": "15A",
+      "name": "15A",
+      "mode": "bus",
+      "pool": "bus",
+      "color": "#0A295D",
+      "stops": [
+        "meidling-schedifkaplatz",
+        "am-europlatz",
+        "eibesbrunnergasse",
+        "gesundheitszentrum-sud",
+        "clemens-holzmeister-strasse",
+        "altdorferstrasse",
+        "stefan-fadinger-platz",
+        "gussriegelstrasse",
+        "raxstrasse",
+        "grenzackerstrasse",
+        "daumegasse",
+        "altes-landgut",
+        "neulandschule",
+        "florian-geyer-gasse",
+        "siedlung-sudost",
+        "langsulzgasse",
+        "mannertreugasse",
+        "max-mauermann-gasse",
+        "swatoschgasse",
+        "grillgasse",
+        "am-kanal",
+        "lorystrasse",
+        "enkplatz"
+      ],
+      "returnStops": [
+        "enkplatz",
+        "lorystrasse",
+        "am-kanal",
+        "grillgasse",
+        "swatoschgasse",
+        "max-mauermann-gasse",
+        "mannertreugasse",
+        "langsulzgasse",
+        "siedlung-sudost",
+        "florian-geyer-gasse",
+        "neulandschule",
+        "altes-landgut",
+        "daumegasse",
+        "grenzackerstrasse",
+        "raxstrasse",
+        "gussriegelstrasse",
+        "stefan-fadinger-platz",
+        "clemens-holzmeister-strasse",
+        "gesundheitszentrum-sud",
+        "eibesbrunnergasse",
+        "am-europlatz",
+        "meidling-schedifkaplatz"
+      ],
+      "headway": 420,
+      "capacity": 85
+    },
+    {
+      "id": "48A",
+      "name": "48A",
+      "mode": "bus",
+      "pool": "bus",
+      "color": "#0A295D",
+      "stops": [
+        "parlament-volkstheater",
+        "volkstheater",
+        "kellermanngasse",
+        "neustiftgasse-neubaugasse",
+        "neustiftgasse-zieglergasse",
+        "kaiserstrasse-neustiftgasse",
+        "thaliastrasse-koppstrasse",
+        "kirchstetterngasse",
+        "panikengasse",
+        "brusslgasse",
+        "possingergasse",
+        "pfenninggeldgasse",
+        "gutraterplatz",
+        "ottakring",
+        "rankgasse",
+        "joachimsthalerplatz",
+        "klinik-ottakring",
+        "waidackergasse",
+        "schrekergasse",
+        "reichmanngasse",
+        "otto-wagner-areal",
+        "klinik-penzing"
+      ],
+      "returnStops": [
+        "klinik-penzing",
+        "otto-wagner-areal",
+        "reichmanngasse",
+        "schrekergasse",
+        "waidackergasse",
+        "klinik-ottakring",
+        "joachimsthalerplatz",
+        "rankgasse",
+        "ottakring",
+        "gutraterplatz",
+        "schmelz-gablenzgasse",
+        "brusslgasse",
+        "camillo-sitte-gasse",
+        "vogelweidplatz-stadthalle",
+        "moeringgasse",
+        "burggasse-stadthalle",
+        "kaiserstrasse-burggasse",
+        "burggasse-zieglergasse",
+        "burggasse-neubaugasse",
+        "st-ulrichs-platz",
+        "volkstheater",
+        "parlament-volkstheater"
+      ],
+      "headway": 420,
+      "capacity": 85
+    }
+  ],
+  "connectors": [
+    {
+      "stationId": "karlsplatz",
+      "fromLineId": "U1",
+      "toLineId": "U2",
+      "seconds": 120,
+      "fictional": true
+    },
+    {
+      "stationId": "karlsplatz",
+      "fromLineId": "U1",
+      "toLineId": "U4",
+      "seconds": 120,
+      "fictional": true
+    },
+    {
+      "stationId": "karlsplatz",
+      "fromLineId": "U2",
+      "toLineId": "U4",
+      "seconds": 120,
+      "fictional": true
+    },
+    {
+      "stationId": "landstrasse",
+      "fromLineId": "U3",
+      "toLineId": "U4",
+      "seconds": 120,
+      "fictional": true
+    },
+    {
+      "stationId": "borse",
+      "fromLineId": "D",
+      "toLineId": "1",
+      "seconds": 90,
+      "fictional": false
+    },
+    {
+      "stationId": "parlament",
+      "fromLineId": "D",
+      "toLineId": "2",
+      "seconds": 90,
+      "fictional": false
+    },
+    {
+      "stationId": "schwedenplatz",
+      "fromLineId": "1",
+      "toLineId": "2",
+      "seconds": 90,
+      "fictional": false
+    },
+    {
+      "stationId": "hintere-zollamtsstrasse",
+      "fromLineId": "1",
+      "toLineId": "O",
+      "seconds": 90,
+      "fictional": false
+    },
+    {
+      "stationId": "quellenplatz",
+      "fromLineId": "6",
+      "toLineId": "O",
+      "seconds": 90,
+      "fictional": false
+    },
+    {
+      "stationId": "westbahnhof",
+      "fromLineId": "6",
+      "toLineId": "18",
+      "seconds": 90,
+      "fictional": false
+    }
+  ],
+  "transfers": [
+    {
+      "from": "karlsplatz",
+      "to": "oper-karlsplatz",
+      "seconds": 180
+    },
+    {
+      "from": "hauptbahnhof",
+      "to": "hauptbahnhof-ost",
+      "seconds": 240
+    },
+    {
+      "from": "burggasse-stadthalle",
+      "to": "urban-loritz-platz",
+      "seconds": 120
+    },
+    {
+      "from": "volkstheater",
+      "to": "parlament-volkstheater",
+      "seconds": 180
+    },
+    {
+      "from": "sudtiroler-pl-hbf",
+      "to": "hauptbahnhof",
+      "seconds": 180
+    },
+    {
+      "from": "meidling",
+      "to": "meidling-schedifkaplatz",
+      "seconds": 180
+    }
+  ]
+}
