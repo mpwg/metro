@@ -194,7 +194,7 @@ test("accepted surface transfers retain intermediate replacement lines until the
     state.replacementLines.some((l) => l.id === event.replacementLineId),
   ).toBe(false);
   expect(total(state)).toBe(state.metrics.generated);
-}, 20000);
+}, 60_000);
 
 test("closures can target a stop served exclusively by an asymmetric return pattern", () => {
   const state = createGame(network);

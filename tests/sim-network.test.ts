@@ -27,4 +27,5 @@ test("full eighteen-line network stays conserved and bounded through a half-hour
   stepGame(network, resumed, 60);
   expect(resumed).toEqual(state);
   expect(total(state)).toBe(state.metrics.generated);
-});
+  // This checks 30 simulated minutes and state invariants, not runner CPU speed.
+}, 30_000);

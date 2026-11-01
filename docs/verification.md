@@ -11,6 +11,8 @@ Getestet mit Bun 1.4.4. Datenstand `vienna-normal-2026-10-26-v1`: 18 Linien, 335
 | Entwicklungsserver | Start und Worker-Build per Bun geprüft; HTTP 200 |
 | Produktionsserver | HTML und Worker erfolgreich ausgeliefert |
 
+Der erste GitHub-CI-Lauf zeigte für den Vollnetztest etwa sechs Sekunden Laufzeit und überschritt Buns Standardlimit von fünf Sekunden. Die beiden langen Simulationstests verwenden deshalb explizit 30 beziehungsweise 60 Sekunden Zeitbudget; simulierte Dauer und fachliche Assertions bleiben unverändert.
+
 ## Browserabläufe am Produktionsbuild
 
 Chromium 156.0.8078.4 und Firefox 157.0 wurden tatsächlich als Headless-Desktop-Browser ausgeführt. Die Prüfung verwendet echte Worker-Zeit; keine emulierten Spieltimer.
